@@ -1,0 +1,27 @@
+from hl7apy.parser import parse_message
+from hl7apy.core import Group, Segment
+
+
+def parse():
+    hl7 = """MSH|^~\&|HL7_DEFAULT|INST|HES|INST|20170330160000||MDM^T02^MDM_T02|e2e38ff4-96d8-40f8-bae1-978d81e88254|D|2.5|||AL|AL
+EVN|T02|20170330160000|||247^MEDICA^TESTE^^^^^^HOS~30993^MEDICA^TESTE^^^^^^N.Ordem~22772^MEDICA^TESTE^^^^^^N.Mecanogr\XE1\fico|
+PID|1||12104^^^HOS^NS||LAST_NAME^FIRST_NAME^MIDDLE_NAME^^^^L||19671226000000|M||||||||||98048523^^^HOS||||||||||||
+PV1|1|URG|^^^3147102||||||247^MEDICA^TESTE^^^^^^HOS~30993^MEDICA^TESTE^^^^^^N.Ordem~22772^MEDICA^TESTE^^^^^^N.Mecanogr\XE1\fico|10013|||||||1697^Utilizador^Teste^^
+^^^^HOS~1333^Utilizador^Teste^^^^^^N.Mecanogr\XE1\fico||14002413^^^HOS|||||||||||||||||||||||||20170327175503||||||16405182^^^HOS^TAX|V
+TXA|1|CS||20170327175503|247^MEDICA^TESTE^^^^^^HOS~30993^MEDICA^TESTE^^^^^^N.Ordem~22772^MEDICA^TESTE^^^^^
+^N.Mecanogr\XE1\fico|20170330160000||||||D0001|||||LA|U||||247^MEDICA^TESTE^^^^^^HOS~30993^MEDICA^TESTE^^^^^^N.Ordem~22772^MEDICA^TESTE^^^^^^N.Mecanogr\XE1\fico|||||
+OBX|1|ST|0001^DiarioClinico||Utente melhorou e pode ir para casa||||||F|||20170330160000|||||"""
+    msg = parse_message(hl7.replace('\n', '\r'))
+    print(msg)
+
+    for segment in msg.children:
+        if isinstance(segment, Segment):
+            for attribute in segment.children:
+                print(attribute, attribute.value)
+    if isinstance(segment, Group):
+        for group in segment.children:
+            for group_segment in group.children:
+                for attribute in group_segment.children:
+                    print(attribute, attribute.value)
+
+parse()

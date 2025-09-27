@@ -1,0 +1,55 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<h3>Add Term</h3>
+
+<div>
+<form action="/term" method="POST">
+    <div class="mb-3">
+      <label class="form-label">Designation:</label>
+      <input type="text" class="form-control" name="designation">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Description:</label>
+        <input type="text" class="form-control" name="description">
+      </div>
+      <div class="mb-3">
+        <label class="form-label">English:</label>
+        <input type="text" class="form-control" name="english">
+      </div>
+      <div class="mb-3">
+        <label class="form-label">Spanish:</label>
+        <input type="text" class="form-control" name="spanish">
+      </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+
+{% if message %}
+{{message}}
+{% endif %}
+
+<hr>
+
+<div class="list-group">
+
+    {% for d in designations %}
+
+
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            <a href="/term/{{d}}" class="">{{d}}</a> 
+            <div>
+              <button type="button" class="btn btn-danger" onclick="deleteTerm('{{d}}')">Delete</button> 
+          </div>
+          </li>
+    {% endfor %}
+
+        </div>
+
+
+
+
+</div>
+{% endblock %}
+

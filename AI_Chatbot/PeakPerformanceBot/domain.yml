@@ -1,0 +1,231 @@
+version: '3.1'
+intents:
+- affirm
+- bot_challenge
+- chitchat:
+    is_retrieval_intent: true
+    used_entities:
+    - ascent
+    - current_form
+    - descent
+    - goaldistance
+    - goaldistancefinal
+    - goaldistanceunit
+    - goalhours
+    - goalminutes
+    - goalseconds
+    - goaltimefinal
+    - pb
+    - racetype
+    # - time_left
+    # - time_left_unit
+- deny
+- goodbye
+- greet
+- inform
+- inform_ascent
+- inform_descent
+- inform_pb
+- inform_time_left
+- recreational_runner
+- mood_great
+- mood_unhappy
+- negation
+- inform_racetype
+- inform_goaldistance
+- inform_goaltime
+entities:
+- goalhours
+- racetype
+- goaldistance_km
+- goaldistance_m
+- goalminutes
+- goalseconds
+- pb
+- time_left
+- time_left_unit
+- current_form
+- ascent
+- descent
+- goaltimefinal
+- goaldistancefinal
+actions:
+- utter_ask_racetype
+- utter_ask_goaltime
+- utter_how_can_i_help
+- utter_greet
+- utter_ask_PB
+- calculate_trail_climb
+- utter_chitchat
+- utter_ask_distance_time
+- convert_distance
+- convert_time
+- utter_goaltimefinal
+slots:
+  goalminutes:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: goalminutes
+  goalhours:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: goalhours
+  goalseconds:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: goalseconds
+  goaldistance_km:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: goaldistance_km
+  goaldistance_m:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: goaldistance_m
+  # goaldistanceunit:
+  #   type: categorical
+  #   influence_conversation: true
+  #   values:
+  #   - km
+  #   - m
+  #   mappings:
+  #   - type: from_entity
+  #     entity: goaldistanceunit
+  racetype:
+    type: categorical
+    influence_conversation: true
+    values:
+    - flat
+    - trail
+    mappings:
+    - type: from_entity
+      entity: racetype
+  current_form:
+    type: categorical
+    influence_conversation: true
+    values:
+    - good
+    - bad
+    mappings:
+    - type: from_entity
+      entity: current_form
+  ascent:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: ascent
+  time_left:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: time_left
+  time_left_unit:
+    type: categorical
+    influence_conversation: true
+    values:
+    - year
+    - day
+    - month
+    mappings:
+    - type: from_entity
+      entity: time_left_unit
+  pb:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: pb
+  goaltimefinal:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: custom
+  goaldistancefinal:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: goaldistancefinal
+forms:
+  race_info_form:
+    ignored_intents:
+    - chitchat
+    required_slots:
+    - goaldistance_km
+    # - goaltimefinal
+    
+responses:
+  utter_greet:
+  - text: Hey! I am an AI generated bot ready to help you improve you running form.
+  utter_start:
+  - text: Start by telling me what type of races you are into. Road, track or trail running?
+  utter_how_can_i_help:
+  - text: I'm here to help you. Tell me what your goal is.
+  - text: Which race do you want to run?
+  utter_i_want_to_run:
+  - text: In order to help you achieving your goals, I need to know what type of competition you are into and how fast you want to run.
+  - text: Cool! Please tell me what are your goal distance and time.
+  utter_ask_for_help:
+  - text: Of course! Please tell me a bit more about your goals.
+  - text: Sure! What distance and time are you aiming for?
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_ask_goaldistance:
+  - text: What distance do you want to run?
+  - text: How long is the race?
+  - text: In order to set the training plan, I need to know what distance you want to run.
+  utter_ask_goaldistanceunit:
+  - text: In what unit is distance given? Meters or kilometers?
+  utter_ask_goaltime:
+  - text: How fast do you want to run?
+  - text: What's your goal time?
+  - text: To better define the training plan, I need to know how fast you want to run.
+  utter_ask_racetype:
+  - text: What type of race is it? Road, track, or trail?
+  utter_ask_pb:
+  - text: Do you have a previous PB in this distance?
+  - text: What is your previous PB in the distance?
+  utter_ask_time_left:
+  - text: How long until the race?
+  - text: How much time is left until the race?
+  - text: How much time do you have to prepare for the race?
+  utter_ask_current_form_road:
+  - text: How good is your current form? For example, how fast can you run 1000m or 10km flat right now?
+  utter_hard_road_goal:
+  - text: That is a tough goal, but I'm certain you'll achieve it with the right mindset and my help.
+  utter_big_climb:
+  - text: That's a lot of climb! I'll take that into account on the training plan. Be ready to work on your uphill technic and strength.
+  utter_small_climb:
+  - text: Looks like a quite flat course. We'll work a bit more on your speed then.
+  utter_ask_ascent:
+  - text: How many uphill meters are there on total in the race?
+  - text: How many ascent meters are there in total?
+  - text: How much total climb up is there in the race?
+  utter_ask_descent:
+  - text: How many downhill meters are there in the race?
+  - text: How many descent meters are there in total?
+  utter_goodbye:
+  - text: Bye
+  - text: Chi vediamo
+  - text: Goodbye and good luck
+  - text: God speed
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+  utter_ask_distance_time:
+  - text: How long and what distance do you want to run?
+  utter_goaltimefinal:
+  - text: "The total time in seconds is {goaltimefinal}"
+  utter_goaldistancefinal:
+  - text: "The total distance in meters is {goaldistancefinal}"
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: false

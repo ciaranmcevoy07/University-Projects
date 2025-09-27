@@ -1,0 +1,6560 @@
+{
+    "Attending Physician": {
+        "es": "Médico de Planta"
+    },
+    "Intern": {
+        "es": "Interno, residente de primer año"
+    },
+    "Medical Doctor (MO)": {
+        "es": "Doctor en Medicina"
+    },
+    "Medical Fellow": {
+        "es": "Médico Investigador"
+    },
+    "Medical Student": {
+        "es": "Estudiante de Medicina"
+    },
+    "Osteopathic Doctor (DO)": {
+        "es": "Doctor en Osteopatía"
+    },
+    "Resident": {
+        "es": "Residente"
+    },
+    "Specialist": {
+        "es": "Especialista"
+    },
+    "Emergency Medical Technician": {
+        "es": "Técnico en Emergencias Médicas"
+    },
+    "Home Care Attendant": {
+        "es": "Asistente de Apoyo, Domiciliario"
+    },
+    "Laboratory Technician": {
+        "es": "Técnico de Laboratorio"
+    },
+    "Midwife": {
+        "es": "Partera, comadrona"
+    },
+    "Nurse": {
+        "es": "Enfermero/a"
+    },
+    "Certified Nurse": {
+        "es": "Enfermero/a certificado"
+    },
+    "Nurse Practitioner": {
+        "es": "Enfermero/a altamente especializadalicenciado/a para formular o recetar o prescribir"
+    },
+    "Licensed Practical Nurse": {
+        "es": "Enfermero/a licenciado/a"
+    },
+    "Registered Nurse": {
+        "es": "Enfermero/a registrado/a"
+    },
+    "Visiting Nurse": {
+        "es": "Enfermero/a domiciliario/a"
+    },
+    "Nurse’s Aide": {
+        "es": "Asistente de enfermería"
+    },
+    "Personnel": {
+        "es": "Personal"
+    },
+    "Physician's Assistant (PA)": {
+        "es": "Asistente Médico Especializado"
+    },
+    "Physical Therapist": {
+        "es": "Fisioterapueta"
+    },
+    "Occupational Therapist": {
+        "es": "Terapeuta ocupacional"
+    },
+    "Social Worker": {
+        "es": "Trabajador Social, Asistente Social"
+    },
+    "Clinical Social Worker (MSW)": {
+        "es": "Trabajador Social especializado en psicoterapia"
+    },
+    "Technician": {
+        "es": "Técnico"
+    },
+    "Account Representative": {
+        "es": "Representante de cuentas"
+    },
+    "Admissions": {
+        "es": "Admisiones, ingresos"
+    },
+    "Admit a Patient": {
+        "es": "Internar // hospitalizar // admitir a un paciente"
+    },
+    "Appointment": {
+        "es": "Cita"
+    },
+    "Bill": {
+        "es": "Cuenta, factura; volante; billete"
+    },
+    "Birth Date": {
+        "es": "Fecha de nacimiento"
+    },
+    "Business Card": {
+        "es": "Tarjeta de presentación"
+    },
+    "Card": {
+        "es": "Tarjeta"
+    },
+    "Cashier": {
+        "es": "Cajero"
+    },
+    "Children": {
+        "es": "Niños/as"
+    },
+    "Clinic": {
+        "es": "Clínica"
+    },
+    "Confidential": {
+        "es": "Confidencial"
+    },
+    "Confidentiality": {
+        "es": "Confidencialidad"
+    },
+    "Consult": {
+        "es": "Consultar"
+    },
+    "Consultation": {
+        "es": "Consulta"
+    },
+    "Discharge (A Patient)": {
+        "es": "Dar de alta (a un paciente)"
+    },
+    "Doctor’s Office": {
+        "es": "Consultorio/oficina del médico, del doctor"
+    },
+    "Elevator": {
+        "es": "Ascensor"
+    },
+    "Ethics Committee": {
+        "es": "Comité ético"
+    },
+    "Exit": {
+        "es": "Salida"
+    },
+    "Faith": {
+        "es": "Fe"
+    },
+    "To Have Faith": {
+        "es": "Tener Fe"
+    },
+    "Family": {
+        "es": "Familia"
+    },
+    "Fill Out (Forms)": {
+        "es": "Rellenar/llenar (formularios)"
+    },
+    "Follow-Up Appointment": {
+        "es": "Cita de seguimiento o de control"
+    },
+    "Friends": {
+        "es": "Amigos/as"
+    },
+    "Front Desk": {
+        "es": "Mesa del frente, mesa principal, mostrador"
+    },
+    "Funeral Home": {
+        "es": "Funeraria"
+    },
+    "God": {
+        "es": "Dios"
+    },
+    "Health Care Proxy": {
+        "es": "Poder médico, de salud, Reglamento de laatención médica o persona apoderada"
+    },
+    "Health Insurance": {
+        "es": "Seguro médico, seguro de salud"
+    },
+    "Health Maintenance Organization (HMO)": {
+        "es": "HMO (Organización para la Administración de laSalud)"
+    },
+    "Height": {
+        "es": "Estatura"
+    },
+    "History": {
+        "es": "Historia, historial"
+    },
+    "Hospice": {
+        "es": "Hospicio especializado en cuidado terminal opara pacientes desahuciados o sin esperanzade vida"
+    },
+    "Hospital": {
+        "es": "Hospital"
+    },
+    "Intensive Care Unit": {
+        "es": "Unidad de cuidados intensivos"
+    },
+    "Interpreter": {
+        "es": "Intérprete"
+    },
+    "Informed Consent": {
+        "es": "Consentimiento Informado"
+    },
+    "To consent": {
+        "es": "Consentir"
+    },
+    "Inpatient Care": {
+        "es": "Cuidado/Atención de pacientes Internos"
+    },
+    "Insurance Card": {
+        "es": "Tarjeta del seguro"
+    },
+    "Insurance Company": {
+        "es": "Compañía de seguros"
+    },
+    "Job": {
+        "es": "Trabajo, empleo"
+    },
+    "Kilogram": {
+        "es": "Kilo, Kilogramo"
+    },
+    "Knowledge": {
+        "es": "Conocimiento, sabiduría"
+    },
+    "Labor And Industry": {
+        "es": "Trabajo e Industria"
+    },
+    "Laboratory": {
+        "es": "Laboratorio"
+    },
+    "Living Will": {
+        "es": "Testamento"
+    },
+    "Lobby": {
+        "es": "Recepción, vestíbulo"
+    },
+    "Managed Care": {
+        "es": "Sistema de administración de salud"
+    },
+    "Meal": {
+        "es": "Comida"
+    },
+    "Medical Chart": {
+        "es": "Récord, archivo o historial médico/Tabla médica"
+    },
+    "Medical History": {
+        "es": "Historial médico"
+    },
+    "Medical Records": {
+        "es": "Informes/archivos Médicos"
+    },
+    "Mental Hospital": {
+        "es": "Hospital Mental, Hospital Psiquiátrico"
+    },
+    "Morgue": {
+        "es": "Morgue, mortuorio"
+    },
+    "Next Of Kin": {
+        "es": "Parientes más Cercanos, parientes máspróximos"
+    },
+    "Nursing Home": {
+        "es": "Asilo, ancianato, hogar de ancianos donde sepresta atención o cuidado médico"
+    },
+    "Outpatient Care": {
+        "es": "Cuidado/atención a pacientes externos"
+    },
+    "Pamphlet": {
+        "es": "Panfleto, folleto"
+    },
+    "Patient": {
+        "es": "Paciente"
+    },
+    "Patient Advocate": {
+        "es": "Abogado, Defensor or Representante delPaciente"
+    },
+    "Patient's Bill Of Rights": {
+        "es": "Carta de Declaración de los Derechos delPaciente"
+    },
+    "Payment": {
+        "es": "Pago"
+    },
+    "Personal": {
+        "es": "Personal"
+    },
+    "Please": {
+        "es": "Por Favor; complacer (Vb.)"
+    },
+    "Privacy": {
+        "es": "Privacidad"
+    },
+    "Procedure Consent Form": {
+        "es": "Formulario de Consentimiento de Procedimiento"
+    },
+    "Psychiatric Ward": {
+        "es": "Sala de Psiquiatría"
+    },
+    "Relatives": {
+        "es": "Parientes"
+    },
+    "Restroom": {
+        "es": "Cuarto de baño"
+    },
+    "Shelter": {
+        "es": "Asilo, amparo, refugio, abrigo"
+    },
+    "Women’s": {
+        "es": "para mujeres"
+    },
+    "Homeless": {
+        "es": "para indigentes, los sin hogar, los sin techo,"
+    },
+    "Toilet": {
+        "es": "Sevicio, baño, cuarto de baño, aseo, W.C."
+    },
+    "Waiting Room": {
+        "es": "Sala de Espera"
+    },
+    "Walk-In Clinic": {
+        "es": "Ambulatorio, Clínica de Urgencias"
+    },
+    "Welfare": {
+        "es": "Bienestar o Asistencia Social"
+    },
+    "Worker’s Compensation": {
+        "es": "Compensación a los Trabajadores"
+    },
+    "Work Related Injury": {
+        "es": "Accidente laboral, accidente de trabajo"
+    },
+    "Work Release": {
+        "es": "Relevo del trabajo/exención del trabajo"
+    },
+    "Workforce": {
+        "es": "Personal, plantilla, mano de obra; poblaciónactiva de un país"
+    },
+    "External": {
+        "es": "Externas"
+    },
+    "Cheek": {
+        "es": "Mejilla, cachete, moflete, carrillo"
+    },
+    "Chin": {
+        "es": "Barbilla"
+    },
+    "Cornea": {
+        "es": "Córnea"
+    },
+    "Cranium": {
+        "es": "Cráneo"
+    },
+    "Dentine": {
+        "es": "Dentina, marfil"
+    },
+    "Ear (Internal/External)": {
+        "es": "Oreja, oído"
+    },
+    "Eardrum": {
+        "es": "Tímpano"
+    },
+    "Ear Canal": {
+        "es": "Canal del oído"
+    },
+    "Ear Lobe": {
+        "es": "Lóbulo del oído"
+    },
+    "Eye": {
+        "es": "Ojo"
+    },
+    "Eyelash": {
+        "es": "Pestaña"
+    },
+    "Eyebrows": {
+        "es": "Cejas"
+    },
+    "Eyelids": {
+        "es": "Párpados"
+    },
+    "Forehead": {
+        "es": "Frente"
+    },
+    "Gums": {
+        "es": "Encías"
+    },
+    "Hair": {
+        "es": "Pelo, cabello"
+    },
+    "Incisor": {
+        "es": "Incisivo"
+    },
+    "Jaw": {
+        "es": "Mandíbula"
+    },
+    "Lip": {
+        "es": "Labio"
+    },
+    "Lower Lip": {
+        "es": "Labio inferior"
+    },
+    "Molar": {
+        "es": "Muela, molar"
+    },
+    "Mouth": {
+        "es": "Boca"
+    },
+    "Nape": {
+        "es": "Cogote, nuca"
+    },
+    "Nose": {
+        "es": "Nariz"
+    },
+    "Nose-Bridge": {
+        "es": "Puente nasal, de la nariz"
+    },
+    "Nostril": {
+        "es": "Ventana o agujero de la nariz"
+    },
+    "Orthodontia": {
+        "es": "Ortodoncia"
+    },
+    "Palate": {
+        "es": "Paladar"
+    },
+    "Roof Of Mouth": {
+        "es": "Paladar"
+    },
+    "Scalp": {
+        "es": "Cuero cabelludo"
+    },
+    "Sputum": {
+        "es": "Saliva, esputo"
+    },
+    "Taste Buds": {
+        "es": "Papilas gustativas"
+    },
+    "Teeth": {
+        "es": "Dientes"
+    },
+    "Throat": {
+        "es": "Garganta"
+    },
+    "Tongue": {
+        "es": "Lengua"
+    },
+    "Temple": {
+        "es": "Sien"
+    },
+    "Upper Lip": {
+        "es": "Labio superior"
+    },
+    "Uvula": {
+        "es": "Úvula"
+    },
+    "Wisdom Tooth": {
+        "es": "Muela del juicio, muela cordal"
+    },
+    "Abdomen": {
+        "es": "Abdomen"
+    },
+    "Abdominal": {
+        "es": "Abdominal"
+    },
+    "Armpit": {
+        "es": "Axila, sobaco"
+    },
+    "Back": {
+        "es": "Espalda"
+    },
+    "Navel/Belly Button": {
+        "es": "Ombligo"
+    },
+    "Bust": {
+        "es": "Busto, pecho"
+    },
+    "Chest": {
+        "es": "Pecho"
+    },
+    "Crotch": {
+        "es": "Entrepierna, bragadura"
+    },
+    "Elbow": {
+        "es": "Codo"
+    },
+    "Finger": {
+        "es": "Dedo (de la mano)"
+    },
+    "Fingernail": {
+        "es": "Uña (de la mano)"
+    },
+    "Flank": {
+        "es": "Flanco, lado, costado"
+    },
+    "Hand": {
+        "es": "Mano"
+    },
+    "Hips": {
+        "es": "Caderas"
+    },
+    "Hip Joint": {
+        "es": "Articulación/Coyuntura de la cadera"
+    },
+    "Limb": {
+        "es": "Miembro,e Extremidad"
+    },
+    "Nipple": {
+        "es": "Pezón"
+    },
+    "Organ": {
+        "es": "Órgano"
+    },
+    "Palm": {
+        "es": "Palma"
+    },
+    "Quadrant": {
+        "es": "Cuadrante"
+    },
+    "Shoulder": {
+        "es": "Hombro"
+    },
+    "Shoulder Joint": {
+        "es": "Articulación/Coyuntura del hombro"
+    },
+    "Side": {
+        "es": "Costado, lado"
+    },
+    "Skin": {
+        "es": "Piel"
+    },
+    "Thumb": {
+        "es": "Pulgar"
+    },
+    "Waist": {
+        "es": "Cintura"
+    },
+    "Wrist": {
+        "es": "Muñeca"
+    },
+    "Ankle": {
+        "es": "Tobillo"
+    },
+    "Anus": {
+        "es": "Ano"
+    },
+    "Arch Of Foot": {
+        "es": "Arco del pie"
+    },
+    "Ball Of Foot": {
+        "es": "Antepié"
+    },
+    "Buttock": {
+        "es": "Nalga"
+    },
+    "Calf/Calves": {
+        "es": "Pantorrilla/s"
+    },
+    "Knee": {
+        "es": "Rodilla"
+    },
+    "Genital Area": {
+        "es": "Area/Zona genital"
+    },
+    "Genitalia": {
+        "es": "Genitales"
+    },
+    "Groin": {
+        "es": "Ingle"
+    },
+    "Heel Of Foot": {
+        "es": "Talón"
+    },
+    "Inguinal Region": {
+        "es": "Ingles, región inguinal"
+    },
+    "Lower Back/Lumbar": {
+        "es": "Lumbares, zona inferior de la espalda"
+    },
+    "Pelvis": {
+        "es": "Pelvis"
+    },
+    "Perineum": {
+        "es": "Perineo"
+    },
+    "Rectum": {
+        "es": "Recto"
+    },
+    "Shin": {
+        "es": "Espinilla"
+    },
+    "Thigh": {
+        "es": "Muslo"
+    },
+    "Toe": {
+        "es": "Dedo del pie"
+    },
+    "Toenail": {
+        "es": "Uña (del pie)"
+    },
+    "Internal": {
+        "es": "Interno"
+    },
+    "Brain Fissure": {
+        "es": "Cisura cerebral"
+    },
+    "Brain Stem": {
+        "es": "Tronco cerebral"
+    },
+    "Cerebral-Spinal Fluid": {
+        "es": "Líquido cefalorraquídeo, líquido cerebro-espinal"
+    },
+    "Conjunctiva (Of Eye)": {
+        "es": "Conjuntiva (del ojo)"
+    },
+    "Epiglottis": {
+        "es": "Epiglotis"
+    },
+    "Gland": {
+        "es": "Glándula"
+    },
+    "Hypothalamus": {
+        "es": "Hipotálamo"
+    },
+    "Iris": {
+        "es": "Iris"
+    },
+    "Larynx": {
+        "es": "Laringe"
+    },
+    "Lens Of Eye": {
+        "es": "Cristalino; lente del ojo"
+    },
+    "Mucus": {
+        "es": "Moco"
+    },
+    "Optic Nerve": {
+        "es": "Nervio óptico"
+    },
+    "Phlegm": {
+        "es": "Flema, gargajo"
+    },
+    "Pharynx": {
+        "es": "Faringe"
+    },
+    "Pituitary Gland": {
+        "es": "Glándula pituitaria"
+    },
+    "Pupil Of Eye": {
+        "es": "Pupila"
+    },
+    "Retina": {
+        "es": "Retina"
+    },
+    "Saliva": {
+        "es": "Saliva"
+    },
+    "Salivary Gland": {
+        "es": "Glándula salivar"
+    },
+    "Sinus": {
+        "es": "Senos"
+    },
+    "Skull": {
+        "es": "Cráneo"
+    },
+    "Tear Duct": {
+        "es": "Conducto lacrimal"
+    },
+    "Tear Gland": {
+        "es": "Glándula lacrimal"
+    },
+    "Tears": {
+        "es": "Lágrimas"
+    },
+    "Thymus": {
+        "es": "Timo"
+    },
+    "Thyroid": {
+        "es": "Tiroides"
+    },
+    "Tissue": {
+        "es": "Tejido"
+    },
+    "Tonsil": {
+        "es": "Amígdala, tonsila"
+    },
+    "Trachea": {
+        "es": "Tráquea"
+    },
+    "Vocal Chords": {
+        "es": "Cuerdas vocales"
+    },
+    "Wax (Ear)": {
+        "es": "Cera, cerumen (oído)"
+    },
+    "Adrenal Glands": {
+        "es": "Glándulas adrenales"
+    },
+    "Airways": {
+        "es": "Vías respiratorias"
+    },
+    "Alveolus": {
+        "es": "Alvéolo"
+    },
+    "Aorta": {
+        "es": "Aorta"
+    },
+    "Appendix": {
+        "es": "Apéndice"
+    },
+    "Artery": {
+        "es": "Arteria"
+    },
+    "Carotid Artery": {
+        "es": "Arteria carótida"
+    },
+    "Coronary Artery": {
+        "es": "Arteria coronaria"
+    },
+    "Femoral Artery": {
+        "es": "Arteria femoral"
+    },
+    "Pulmonary Artery": {
+        "es": "Arteria pulmonar"
+    },
+    "Arterioles": {
+        "es": "Arteriolas"
+    },
+    "Atrium": {
+        "es": "Atrio"
+    },
+    "Backbone": {
+        "es": "Espinazo, columna vertebral"
+    },
+    "Bile": {
+        "es": "Bilis"
+    },
+    "Bladder": {
+        "es": "Vejiga"
+    },
+    "Blood Vessels": {
+        "es": "Vasos sanguíneos"
+    },
+    "Bone": {
+        "es": "Hueso"
+    },
+    "Bowel": {
+        "es": "Intestino"
+    },
+    "Bronchus": {
+        "es": "Bronquio"
+    },
+    "Bronchi": {
+        "es": "Bronquios"
+    },
+    "Bronchioles": {
+        "es": "Bronquiolos"
+    },
+    "Capillary": {
+        "es": "Capilar"
+    },
+    "Cartilage": {
+        "es": "Cartílago"
+    },
+    "Clavicle (Collar Bone)": {
+        "es": "Clavícula"
+    },
+    "Coccyx": {
+        "es": "Cóccix, coxis"
+    },
+    "Colon": {
+        "es": "Colon"
+    },
+    "Diaphragm": {
+        "es": "Diafragma"
+    },
+    "Ducts": {
+        "es": "Conductos"
+    },
+    "Esophagus": {
+        "es": "Esófago"
+    },
+    "Fibula": {
+        "es": "Fíbula / peroné"
+    },
+    "Gall Bladder": {
+        "es": "Vesícula biliar"
+    },
+    "Glanglion": {
+        "es": "Ganglio"
+    },
+    "Heart": {
+        "es": "Corazón"
+    },
+    "Heart Valve": {
+        "es": "Válvula cardiaca"
+    },
+    "Joint": {
+        "es": "articulación, junta, juntura"
+    },
+    "Joint Capsule": {
+        "es": "Cápsula articular"
+    },
+    "Kidney": {
+        "es": "Riñón"
+    },
+    "Large Intestine": {
+        "es": "Intestino grueso"
+    },
+    "Liver": {
+        "es": "Hígado"
+    },
+    "Lobules": {
+        "es": "Lóbulos"
+    },
+    "Lungs": {
+        "es": "Pulmones"
+    },
+    "Lymph": {
+        "es": "Linfa"
+    },
+    "Lymph Gland": {
+        "es": "Glándula linfática"
+    },
+    "Lymph Nodes": {
+        "es": "Nódulos linfáticos"
+    },
+    "Lymphatic System": {
+        "es": "Sistema linfático"
+    },
+    "Muscle": {
+        "es": "Muscular"
+    },
+    "Cardiac Muscle": {
+        "es": "Músculo cardiaco"
+    },
+    "Myocardium": {
+        "es": "Miocardio"
+    },
+    "Nerve": {
+        "es": "Nervio"
+    },
+    "Organs": {
+        "es": "Órganos"
+    },
+    "Pancreas": {
+        "es": "Páncreas"
+    },
+    "Pectoralis": {
+        "es": "Pectorales"
+    },
+    "Pulmonary Alveoli": {
+        "es": "Alvéolos pulmonares"
+    },
+    "Purkinje Fibers": {
+        "es": "Fibras de Purkinje"
+    },
+    "Ribs": {
+        "es": "Costillas"
+    },
+    "Scapula": {
+        "es": "Escápula/omoplato"
+    },
+    "Sinoatrial Node (SA Node)": {
+        "es": "Nódulo sinoatrial"
+    },
+    "Small Intestine": {
+        "es": "Intestino delgado"
+    },
+    "Sphincter": {
+        "es": "Esfínter"
+    },
+    "Spinal Cord": {
+        "es": "Médula espinal"
+    },
+    "Spinal Disk": {
+        "es": "Disco espinal"
+    },
+    "Spine": {
+        "es": "Espina"
+    },
+    "Spine Marrow": {
+        "es": "Médula espinal"
+    },
+    "Spleen": {
+        "es": "Bazo"
+    },
+    "Sternum": {
+        "es": "Esternón"
+    },
+    "Stomach": {
+        "es": "Estomacal"
+    },
+    "Tibia": {
+        "es": "Tibia"
+    },
+    "Ureter": {
+        "es": "Uréter"
+    },
+    "Urethra": {
+        "es": "Uretra"
+    },
+    "Urine": {
+        "es": "Orina"
+    },
+    "Valve": {
+        "es": "Válvula"
+    },
+    "Aortic Valve": {
+        "es": "Válvula aórtica"
+    },
+    "Atrioventricular Valve (AV Valve)": {
+        "es": "Válvula atrioventricular"
+    },
+    "Pulmonary Valve": {
+        "es": "Válvula pulmonar"
+    },
+    "Vein": {
+        "es": "Vena"
+    },
+    "Venules": {
+        "es": "Vénulas"
+    },
+    "Ventricle Of Heart": {
+        "es": "Ventrículo cardiaco"
+    },
+    "Vertebra/Vertebral Column": {
+        "es": "Vertebra / columna vertebral"
+    },
+    "Ligament": {
+        "es": "Ligamento"
+    },
+    "Patella/Kneecap": {
+        "es": "Rótula"
+    },
+    "Synovial Capsule": {
+        "es": "Cápsula sinobial"
+    },
+    "Tendon": {
+        "es": "Tendón"
+    },
+    "Male": {
+        "es": "Varones"
+    },
+    "Epididymis": {
+        "es": "Epididimo"
+    },
+    "Foreskin": {
+        "es": "Prepucio"
+    },
+    "Penis": {
+        "es": "Pene"
+    },
+    "Prostate Gland": {
+        "es": "Glándula prostática"
+    },
+    "Scrotum": {
+        "es": "Escroto"
+    },
+    "Semen": {
+        "es": "Semen"
+    },
+    "Seminal Vesicle": {
+        "es": "Vesícula seminal"
+    },
+    "Seminiferous Tubule": {
+        "es": "Túbulos seminíferos"
+    },
+    "Sperm": {
+        "es": "Esperma"
+    },
+    "Testicle": {
+        "es": "Testículo"
+    },
+    "Vas Deferens": {
+        "es": "Vasos deferentes"
+    },
+    "Female": {
+        "es": "Mujeres"
+    },
+    "Aureole": {
+        "es": "Aureola"
+    },
+    "Breast": {
+        "es": "Seno, mama, pecho, busto"
+    },
+    "Cervix": {
+        "es": "Cerviz, cérvix"
+    },
+    "Clitoris": {
+        "es": "Clítoris"
+    },
+    "Endometrium": {
+        "es": "Endometrio"
+    },
+    "Fallopian Tube": {
+        "es": "Trompas de falopio"
+    },
+    "Hymen": {
+        "es": "Himen"
+    },
+    "Labium": {
+        "es": "Labio"
+    },
+    "Ovary": {
+        "es": "Ovario"
+    },
+    "Ovule": {
+        "es": "Óvulo"
+    },
+    "Ovum": {
+        "es": "Huevo, óvulo"
+    },
+    "Uterus": {
+        "es": "Útero"
+    },
+    "Vagina": {
+        "es": "Vagina"
+    },
+    "Vulva": {
+        "es": "Vulva"
+    },
+    "Womb": {
+        "es": "Útero, matriz"
+    },
+    "Abrasion": {
+        "es": "Abrasión"
+    },
+    "Abuse": {
+        "es": "Abuso, Maltrato"
+    },
+    "Abscess": {
+        "es": "Absceso, flemón"
+    },
+    "Abscess Of a Tooth": {
+        "es": "Absceso de un diente"
+    },
+    "Acidity": {
+        "es": "Acidez"
+    },
+    "Accident": {
+        "es": "Accidente"
+    },
+    "Allergic Reaction": {
+        "es": "Reacción alérgica"
+    },
+    "Local": {
+        "es": "Reacción local"
+    },
+    "Systemic": {
+        "es": "Reacción sistémica"
+    },
+    "Anguish": {
+        "es": "Angustia, congoja"
+    },
+    "Appetite (Loss Of)": {
+        "es": "Apetito (pérdida de)"
+    },
+    "Asthmatic Episode": {
+        "es": "Episodio asmático"
+    },
+    "Attack": {
+        "es": "Ataque"
+    },
+    "To Have An Attack": {
+        "es": "Tener un ataque"
+    },
+    "Bags (Under The Eye)": {
+        "es": "Bolsas"
+    },
+    "Beat (Abuse)": {
+        "es": "Golpe (abuso)"
+    },
+    "Beating": {
+        "es": "Paliza, golpiza"
+    },
+    "Bedbug": {
+        "es": "Chinche"
+    },
+    "Belch": {
+        "es": "Eructo"
+    },
+    "To Belch": {
+        "es": "Eructar"
+    },
+    "Belief": {
+        "es": "Creencia"
+    },
+    "Belief System": {
+        "es": "Sistema de creencias"
+    },
+    "Bewitched": {
+        "es": "Embrujado/a"
+    },
+    "Bite": {
+        "es": "Mordedura, picadura, mordisco"
+    },
+    "Of An Animal": {
+        "es": "De un animal"
+    },
+    "Of An Insect": {
+        "es": "De un Insecto"
+    },
+    "Birthmark": {
+        "es": "Marca de nacimiento"
+    },
+    "Blackhead": {
+        "es": "Espinilla, poro, punto negro"
+    },
+    "Bleed": {
+        "es": "Sangrar"
+    },
+    "Bleeding": {
+        "es": "Sangrando, sangrante"
+    },
+    "Blindness": {
+        "es": "Ceguera"
+    },
+    "Blister": {
+        "es": "Ampolla"
+    },
+    "To Blister": {
+        "es": "Ampollar, ampollarse"
+    },
+    "Bloated": {
+        "es": "Hinchado, inflamado"
+    },
+    "Bloody": {
+        "es": "Sangrante, sangriento"
+    },
+    "Blow (Strike To The Body)": {
+        "es": "Un golpe"
+    },
+    "Blurred Vision": {
+        "es": "Visión borrosa"
+    },
+    "Bowel Movement": {
+        "es": "Movimientos intestinales"
+    },
+    "To Have a Bowel Movement": {
+        "es": "Defecar, tener un movimiento intestinal"
+    },
+    "Breath": {
+        "es": "Respiro"
+    },
+    "Breathing": {
+        "es": "Respiración"
+    },
+    "Rapid Breathing": {
+        "es": "Respiración rápida"
+    },
+    "To Breathe": {
+        "es": "Respirar"
+    },
+    "Take a Breath": {
+        "es": "Respirar, tomar un respiro"
+    },
+    "Broken": {
+        "es": "Roto"
+    },
+    "Bruise": {
+        "es": "Moradura, moratón, moretón, cardenal,magulladura"
+    },
+    "Build Up": {
+        "es": "Acumulación, intensificación, aumento"
+    },
+    "Burn": {
+        "es": "Quemar (V.), quemadura (N)"
+    },
+    "Burping": {
+        "es": "Eructando"
+    },
+    "Callus": {
+        "es": "Callo"
+    },
+    "Chest Tightness": {
+        "es": "Tensión, presión en el pecho, pecho apretado"
+    },
+    "Chills": {
+        "es": "Escalofrío/s"
+    },
+    "Choke": {
+        "es": "Ahogar(se), asfixiar(se), estrangular, atascar,obstruir, atragantar(se)"
+    },
+    "Congested": {
+        "es": "Congestionado/a"
+    },
+    "Congestion": {
+        "es": "Congestión"
+    },
+    "Constipated": {
+        "es": "Estreñido/a"
+    },
+    "Constipation": {
+        "es": "Estreñimiento"
+    },
+    "Cough": {
+        "es": "Tos"
+    },
+    "Coughing": {
+        "es": "Tos"
+    },
+    "Nagging cough": {
+        "es": "Tos persistente, crónica"
+    },
+    "Coughing with blood": {
+        "es": "Tos con sangre, escupir sangre"
+    },
+    "Unexplainable cough": {
+        "es": "Tos inexplicable, sin explicación"
+    },
+    "Convulse": {
+        "es": "Convulsionar"
+    },
+    "Convulsions": {
+        "es": "Convulsiones"
+    },
+    "Cramp": {
+        "es": "Calambre, rampa, tirón"
+    },
+    "Menstrual": {
+        "es": "Menstrual, dolor de ovarios, cólico"
+    },
+    "Muscular": {
+        "es": "Muscular"
+    },
+    "Crushed": {
+        "es": "Aplastado, magullado, machacado"
+    },
+    "Cut": {
+        "es": "Cortada, cortar"
+    },
+    "Damage": {
+        "es": "Daño, perjuicio"
+    },
+    "Dark Rings Under The Eyes": {
+        "es": "Ojeras"
+    },
+    "Deafness": {
+        "es": "Sordera"
+    },
+    "Deep (Wound)": {
+        "es": "Herida profunda"
+    },
+    "Defecate": {
+        "es": "Defecar"
+    },
+    "Dehydrated": {
+        "es": "Deshidratado"
+    },
+    "Depressed": {
+        "es": "Deprimido/a"
+    },
+    "Diarrhea": {
+        "es": "Diarrea"
+    },
+    "Difficulty": {
+        "es": "Dificultad"
+    },
+    "Digestion": {
+        "es": "Digestión"
+    },
+    "Discharge": {
+        "es": "Descarga, flujo"
+    },
+    "Dislocated": {
+        "es": "Dislocado"
+    },
+    "Dizzy": {
+        "es": "Mareado"
+    },
+    "To Become Dizzy": {
+        "es": "Marearse"
+    },
+    "Dizziness": {
+        "es": "Mareo"
+    },
+    "Double Vision": {
+        "es": "Doble visión"
+    },
+    "Drowsiness": {
+        "es": "Somnolencia"
+    },
+    "Dryness": {
+        "es": "Sequedad, resequedad"
+    },
+    "Dyspnea": {
+        "es": "Dispnea"
+    },
+    "Earache": {
+        "es": "Dolor de oído"
+    },
+    "Earwax": {
+        "es": "Cera (del oído)"
+    },
+    "Evil Eye": {
+        "es": "Mal de ojo"
+    },
+    "Episodically": {
+        "es": "Episódicamente, en episodios"
+    },
+    "Faint": {
+        "es": "Débil (Adj.), desmayo (N.)"
+    },
+    "To Feel Faint": {
+        "es": "Debilitarse; desfallecimiento; sentirse que se vaa desmayar"
+    },
+    "Fainting": {
+        "es": "Desmayo"
+    },
+    "Fatigued": {
+        "es": "Fatigado"
+    },
+    "Fester": {
+        "es": "Úlcera, llaga, pústula (N); enconarse, pudrirse,supurarse, ulcerarse"
+    },
+    "Fever": {
+        "es": "Fiebre"
+    },
+    "Feverish": {
+        "es": "Febril"
+    },
+    "Flu": {
+        "es": "Gripe, gripa"
+    },
+    "Flu-like symptoms": {
+        "es": "Síntomas como de gripa (Influenza)"
+    },
+    "Fracture": {
+        "es": "Fractura"
+    },
+    "To Fracture": {
+        "es": "Fracturarse"
+    },
+    "Freckle": {
+        "es": "Peca"
+    },
+    "Frequency": {
+        "es": "Frecuencia"
+    },
+    "Frequent": {
+        "es": "Frecuente"
+    },
+    "Frequently": {
+        "es": "Frecuentemente"
+    },
+    "Frighten": {
+        "es": "Asustar, espantar"
+    },
+    "Frozen": {
+        "es": "Congelar, helar"
+    },
+    "Full Of Gas": {
+        "es": "Lleno de gas"
+    },
+    "Germs": {
+        "es": "Gérmenes"
+    },
+    "Gum Infection": {
+        "es": "Infección de las encías"
+    },
+    "Headache": {
+        "es": "Dolor de cabeza"
+    },
+    "Heartburn": {
+        "es": "Acidez"
+    },
+    "Heart Trouble": {
+        "es": "Enfermar del corazón, problemas cardiacos"
+    },
+    "Hoarseness": {
+        "es": "Ronquera, afonía"
+    },
+    "Hypersensitivity": {
+        "es": "Hipersensibilidad"
+    },
+    "Indigestion": {
+        "es": "Indigestión"
+    },
+    "To Get Indigestion": {
+        "es": "Tener una indigestión"
+    },
+    "Infection": {
+        "es": "Infección"
+    },
+    "To Infect": {
+        "es": "Infectar"
+    },
+    "Infected": {
+        "es": "Infectado"
+    },
+    "Injure": {
+        "es": "Herir, dañar, lastimar, perjudicar"
+    },
+    "Injured": {
+        "es": "Herido"
+    },
+    "Injury": {
+        "es": "Herida, lesión, daño; agravio"
+    },
+    "Insomnia": {
+        "es": "Insomnio"
+    },
+    "Intercourse": {
+        "es": "Penetración, coito"
+    },
+    "Intestinal Gas": {
+        "es": "Gases intestinales"
+    },
+    "Intoxicated": {
+        "es": "Intoxicado por drogas o alcohol"
+    },
+    "Irregular Pulse": {
+        "es": "Pulso irregular"
+    },
+    "Irritation": {
+        "es": "Irritación, picor"
+    },
+    "Itch": {
+        "es": "Picar, rascar"
+    },
+    "Itchiness": {
+        "es": "Comezón, picazón, rasquiña"
+    },
+    "Jagged": {
+        "es": "Dentado, mellado"
+    },
+    "Jittery": {
+        "es": "Nervioso, agitado, inquieto"
+    },
+    "Jumpy": {
+        "es": "Saltón, asustadizo, nervioso, aprensivo"
+    },
+    "Lesion": {
+        "es": "Lesión"
+    },
+    "Limp": {
+        "es": "Cojera"
+    },
+    "To Limp": {
+        "es": "Cojear"
+    },
+    "Lose": {
+        "es": "Perder"
+    },
+    "Lose Consciousness": {
+        "es": "Perder la conciencia o el conocimiento, quedarinconsciente"
+    },
+    "Loss Of Vision": {
+        "es": "Pérdida de la visión"
+    },
+    "Lump": {
+        "es": "Bulto, bola, chichón, hinchazón, abultamiento"
+    },
+    "Malnourished": {
+        "es": "Malnutrido"
+    },
+    "Mass": {
+        "es": "Masa"
+    },
+    "Masturbation": {
+        "es": "Marturbación"
+    },
+    "Migraine": {
+        "es": "Migraña"
+    },
+    "Mind": {
+        "es": "Mente"
+    },
+    "Miracle": {
+        "es": "Milagro"
+    },
+    "Mold": {
+        "es": "Hongo / musgo"
+    },
+    "Mood Swing": {
+        "es": "Cambio de humor"
+    },
+    "Mosquito": {
+        "es": "Mosquito"
+    },
+    "Nap": {
+        "es": "Siesta"
+    },
+    "Nausea": {
+        "es": "Náusea"
+    },
+    "Necrosis": {
+        "es": "Necrosis"
+    },
+    "Nervous": {
+        "es": "Nervioso/a"
+    },
+    "Nodule": {
+        "es": "Nódulo"
+    },
+    "Nosebleed": {
+        "es": "Sangrado de nariz"
+    },
+    "Numb": {
+        "es": "Entumecido"
+    },
+    "To Become Numbed By Inactivation": {
+        "es": "Entumecerse por no moverse, por falta deactividad"
+    },
+    "Numbness": {
+        "es": "Entumecimiento, adormecimiento"
+    },
+    "Open Sore": {
+        "es": "Llaga abierta"
+    },
+    "Oozing": {
+        "es": "Rezumando, rezumante, exudante"
+    },
+    "Climax": {
+        "es": "Climax"
+    },
+    "Orgasm": {
+        "es": "Orgasmo"
+    },
+    "Out Of Breath": {
+        "es": "Sin Aliento, sin respiración"
+    },
+    "Pain": {
+        "es": "Dolor"
+    },
+    "Pale": {
+        "es": "Pálido/a"
+    },
+    "Palpitation": {
+        "es": "Palpitación"
+    },
+    "Paralysis": {
+        "es": "Parálisis"
+    },
+    "Pass Out": {
+        "es": "Desmayarse"
+    },
+    "Perspire": {
+        "es": "Sudar, transpirar, perspirar"
+    },
+    "Perspiration": {
+        "es": "Sudoración, transpiración, perspiración"
+    },
+    "Plugged Ear": {
+        "es": "Oído entaponado / tapado"
+    },
+    "Prick (Hurt)": {
+        "es": "Pinchazo, punzada"
+    },
+    "Pruritus": {
+        "es": "Prurito / comezón / picazón"
+    },
+    "Pulse": {
+        "es": "Pulso"
+    },
+    "Pus": {
+        "es": "Pus"
+    },
+    "Pustule": {
+        "es": "Pústula"
+    },
+    "Pyorrhea": {
+        "es": "Piorrea"
+    },
+    "Quake": {
+        "es": "Temblor"
+    },
+    "Quarrel": {
+        "es": "Disputa, pelea"
+    },
+    "Queasy": {
+        "es": "Delicado, débil, remilgado"
+    },
+    "Quick": {
+        "es": "Rápido"
+    },
+    "Quiet": {
+        "es": "Silencio, silencioso"
+    },
+    "Recurrent": {
+        "es": "Recurrente"
+    },
+    "Reproduction": {
+        "es": "Reproducción"
+    },
+    "Respiration": {
+        "es": "Respiración"
+    },
+    "Retention": {
+        "es": "Retención"
+    },
+    "Rhonchous Lung Sounds": {
+        "es": "Sonidos roncos del pulmón"
+    },
+    "Rhythm": {
+        "es": "Ritmo"
+    },
+    "Rough": {
+        "es": "Áspero, tosco, grosero, rudo"
+    },
+    "Runny Nose": {
+        "es": "Nariz que gotea, que moquea, nariz mocosa"
+    },
+    "Rupture": {
+        "es": "Ruptura"
+    },
+    "Ruptured": {
+        "es": "Roto, quebrado"
+    },
+    "Scorpion": {
+        "es": "Escorpión"
+    },
+    "Scratch (Injury)": {
+        "es": "Rascadura, rascón, arañazo, rasguño, marca,señal, raspadura"
+    },
+    "To Scratch": {
+        "es": "Rascarse"
+    },
+    "Secrete": {
+        "es": "Secretar"
+    },
+    "Secretion": {
+        "es": "Secreción"
+    },
+    "Seizures": {
+        "es": "Convulsiones"
+    },
+    "Sensitive": {
+        "es": "Sensible, sensitivo"
+    },
+    "Sex": {
+        "es": "Sexo"
+    },
+    "Anal Sex": {
+        "es": "Sexo anal"
+    },
+    "Oral Sex": {
+        "es": "Sexo oral"
+    },
+    "Vaginal Sex": {
+        "es": "Sexo vaginal"
+    },
+    "Foreplay": {
+        "es": "Juegos preliminares"
+    },
+    "Sexual Activity": {
+        "es": "Actividad sexual"
+    },
+    "Sexual Relations": {
+        "es": "Relaciones sexuales"
+    },
+    "Sexual Partners": {
+        "es": "Pareja sexual"
+    },
+    "Sexually Active": {
+        "es": "Sexualmente activo"
+    },
+    "Shiver": {
+        "es": "Temblar"
+    },
+    "Shock (Fright)": {
+        "es": "Choque, sobresalto"
+    },
+    "Shortness Of Breath": {
+        "es": "Falta de respiración"
+    },
+    "Smoke": {
+        "es": "Humo"
+    },
+    "To Smoke": {
+        "es": "Fumar"
+    },
+    "Second-Hand Smoke": {
+        "es": "Humo de tabaco de segunda mano"
+    },
+    "Snake": {
+        "es": "Serpiente, culebra"
+    },
+    "Sneeze": {
+        "es": "Estornudar"
+    },
+    "Sore Throat": {
+        "es": "Garganta irritada, dolor de garganta"
+    },
+    "Spasm (Of a Muscle)": {
+        "es": "Espasmo (muscular)"
+    },
+    "Spicy Foods": {
+        "es": "Comidas picantes"
+    },
+    "Spider": {
+        "es": "Araña"
+    },
+    "Black Widow Spider": {
+        "es": "Araña Viuda Negra"
+    },
+    "Spit": {
+        "es": "Escupitajo, gapo, saliva, esputo"
+    },
+    "To Spit": {
+        "es": "Escupir"
+    },
+    "Splinter": {
+        "es": "Astilla"
+    },
+    "Spread": {
+        "es": "Diseminación, propagación, extensión, difusión(N.), extender, esparcir, propagar, diseminar(Vb.)"
+    },
+    "Stiffness": {
+        "es": "Rigidez, dureza, agarrotamiento,entumecimiento"
+    },
+    "Sting (Of An Insect)": {
+        "es": "Picadura, aguijonazo, aguijón"
+    },
+    "To Sting": {
+        "es": "Picar, agujonear; escocer"
+    },
+    "Strain": {
+        "es": "Tensión, presión; torcedura, esguince"
+    },
+    "Strained Muscle": {
+        "es": "Esguince; músculo distendido"
+    },
+    "Stuffed": {
+        "es": "Relleno; disecado"
+    },
+    "Stuffed Up": {
+        "es": "Con la nariz tapada, estar congestionado oacatarrado"
+    },
+    "Suffocate": {
+        "es": "Sofocar"
+    },
+    "Swallow": {
+        "es": "Tragar"
+    },
+    "Sweat": {
+        "es": "Sudor"
+    },
+    "Night sweat": {
+        "es": "Sudor nocturno"
+    },
+    "To Sweat": {
+        "es": "Sudar"
+    },
+    "Swell": {
+        "es": "Hinchazón, bulto"
+    },
+    "To Swell": {
+        "es": "Hincharse, inflar, abultar, aumentar"
+    },
+    "Swelling": {
+        "es": "Hinchando"
+    },
+    "Swollen": {
+        "es": "Hinchado, inflado, inflamado"
+    },
+    "Symptom": {
+        "es": "Síntoma"
+    },
+    "Symptomatic": {
+        "es": "Sintomático"
+    },
+    "Teary/Watery Eyes": {
+        "es": "Ojos llorosos"
+    },
+    "Temperature": {
+        "es": "Temperatura, fiebre"
+    },
+    "Tense": {
+        "es": "Tenso, tieso"
+    },
+    "To Tense Up": {
+        "es": "Tensar, tensionar"
+    },
+    "Tension": {
+        "es": "Tensión"
+    },
+    "Thirst (Excessive)": {
+        "es": "Sed (excesiva)"
+    },
+    "Tick (Insect)": {
+        "es": "Garrapata"
+    },
+    "Tightness": {
+        "es": "Tensión, tirantez // Estrechez"
+    },
+    "Tingling": {
+        "es": "Cosquilleo, hormigueo"
+    },
+    "Tired": {
+        "es": "Cansado/a"
+    },
+    "Tiredness": {
+        "es": "Cansancio"
+    },
+    "Toothache": {
+        "es": "Dolor de dientes"
+    },
+    "Transmission": {
+        "es": "Transmisión"
+    },
+    "Airborne transmission": {
+        "es": "Transmisión por el aire"
+    },
+    "Undernourished": {
+        "es": "Malnutrido"
+    },
+    "Understandable": {
+        "es": "Comprensible"
+    },
+    "To understand": {
+        "es": "Entender, comprender"
+    },
+    "Unwanted": {
+        "es": "No deseado, indeseable"
+    },
+    "Urinate": {
+        "es": "Orinar"
+    },
+    "It hurts to urinate": {
+        "es": "Duele al orinar"
+    },
+    "Urination (Excessive)": {
+        "es": "Orinar (excesivo)"
+    },
+    "Vision": {
+        "es": "Visión"
+    },
+    "Vomit": {
+        "es": "Vomitar"
+    },
+    "Vomiting": {
+        "es": "Vómito"
+    },
+    "Weak": {
+        "es": "Débil"
+    },
+    "Weakness": {
+        "es": "Debilidad"
+    },
+    "Weight Fluctuations": {
+        "es": "Fluctuaciones de peso"
+    },
+    "Weight Loss": {
+        "es": "Pérdida de Peso, bajar de peso"
+    },
+    "Well-Hydrated": {
+        "es": "Bien hidratado"
+    },
+    "Wheeze": {
+        "es": "Resuello, ruidoso, respiración violenta o consilbido"
+    },
+    "Wheezing": {
+        "es": "Resollando como haciendo un silbido, respirarcon silbido o pito, sibilancia"
+    },
+    "Withdrawal": {
+        "es": "Retirada, abandono"
+    },
+    "Worry": {
+        "es": "Preocupación"
+    },
+    "To Worry": {
+        "es": "Preocuparse"
+    },
+    "Wound": {
+        "es": "Herida"
+    },
+    "A Stab Of Pain (Sudden, Brief Pain)": {
+        "es": "Dolor que traspasa, que apuñala, una picada(Dolor Repentino Breve)"
+    },
+    "Aches (Continuous Dull Pain)": {
+        "es": "Dolores"
+    },
+    "To Ache": {
+        "es": "Doler"
+    },
+    "Burning Sensation": {
+        "es": "Sensación de quemadura, de quemazón, deardor"
+    },
+    "Chronic Pain": {
+        "es": "Dolor crónico"
+    },
+    "Comes And Goes": {
+        "es": "Viene y se va"
+    },
+    "Constant, Persistent": {
+        "es": "Constante, persistente"
+    },
+    "Dull Pain (Not Intense Or Sharp)": {
+        "es": "Dolor sordo / extendido"
+    },
+    "Excruciating (Extremely Painful)": {
+        "es": "Dolor agudísimo, extremo, insoportable;dolorosísimo"
+    },
+    "Generalized Pain": {
+        "es": "Dolor generalizado"
+    },
+    "Hurts": {
+        "es": "Duele"
+    },
+    "Intense": {
+        "es": "Intenso"
+    },
+    "Intermittent Pain": {
+        "es": "Dolor intermitente"
+    },
+    "Localized Pain": {
+        "es": "Dolor localizado"
+    },
+    "Minor": {
+        "es": "Menor, mínimo"
+    },
+    "On And Off": {
+        "es": "A intervalos, de vez en cuando"
+    },
+    "Painful": {
+        "es": "Doloroso"
+    },
+    "Pins And Needles": {
+        "es": "Aguijonazos, hormigueos"
+    },
+    "Recurring": {
+        "es": "Recurrente"
+    },
+    "Sharp Pain": {
+        "es": "Dolor agudo, dolor punzante"
+    },
+    "Shooting Pain (Pain Shot Up My Leg)": {
+        "es": "Dolor punzante"
+    },
+    "Smarts (Sharp, Local Pain; Usually Superficial)": {
+        "es": "Punzada, picada, mordida"
+    },
+    "Sore": {
+        "es": "Dolorido, adolorido, inflamado, resentido, irritado(Adj.); llaga, úlcera (N.)"
+    },
+    "Soreness": {
+        "es": "Dolor, inflamación, irritación"
+    },
+    "Splitting (Headache)": {
+        "es": "Fuerte, violento (folor de cabeza)"
+    },
+    "Sting": {
+        "es": "Picazón, dolor agudo, escozor (N.) // Picar,pinchar, punzar (Vb.)"
+    },
+    "Tender (Painfully Sensitive)": {
+        "es": "Adolorido, sensible"
+    },
+    "Throbbing Pain (Beating With Rapidity Or Force)": {
+        "es": "Palpitante"
+    },
+    "Unbearable": {
+        "es": "Inaguantable, insoportable"
+    },
+    "Biopsy": {
+        "es": "Biopsia"
+    },
+    "Blood Pressure Reading": {
+        "es": "Medición de la presión sanguínea"
+    },
+    "Blood": {
+        "es": "Sangre"
+    },
+    "A Pint": {
+        "es": "Una pinta"
+    },
+    "Antibody": {
+        "es": "Anticuerpo"
+    },
+    "Antigen": {
+        "es": "Antígeno"
+    },
+    "Blood Bank": {
+        "es": "Banco de sangre"
+    },
+    "Blood Clot": {
+        "es": "Coágulo de sangre"
+    },
+    "Blood Count": {
+        "es": "Recuento globular, recuento sanguíneo"
+    },
+    "Blood Donation": {
+        "es": "Donación de sangre"
+    },
+    "Blood Glucose Levels": {
+        "es": "Niveles de glucosa en la sangre"
+    },
+    "Blood Glucose Reading": {
+        "es": "Medición de los niveles de glucosa"
+    },
+    "Blood Match (Blood Grouping": {
+        "es": "Compatibilidad sanguínea, aparejamiento/agrupamiento sanguíneo"
+    },
+    "Blood Plasma": {
+        "es": "Plasma sanguíneo"
+    },
+    "Blood Test": {
+        "es": "Examen sanguíneo, de sangre"
+    },
+    "Blood Type": {
+        "es": "Grupo/tipo sanguíneo"
+    },
+    "B-Lymphocytes (B-Cells)": {
+        "es": "Linfocitos B (Células B)"
+    },
+    "Bone Marrow": {
+        "es": "Médula Ósea"
+    },
+    "Cd4 Cells/Cd4 Count": {
+        "es": "Células Cd4, recuento de Cd4"
+    },
+    "Clotting Factors": {
+        "es": "Factores de coagulación"
+    },
+    "Fibrin": {
+        "es": "Fibrina"
+    },
+    "Hematologist": {
+        "es": "Hematólogo"
+    },
+    "Hemoglobin": {
+        "es": "Hemoglobina"
+    },
+    "Leukocytes": {
+        "es": "Leucocitos"
+    },
+    "Mean (Statistic)": {
+        "es": "Media (Estadística)"
+    },
+    "Range": {
+        "es": "Rango"
+    },
+    "Red Blood Cells": {
+        "es": "Glóbulos rojos, hematíes"
+    },
+    "Samples": {
+        "es": "Muestras"
+    },
+    "Seroconversion": {
+        "es": "Seroconversión"
+    },
+    "Serology": {
+        "es": "Serología"
+    },
+    "Serum": {
+        "es": "Suero"
+    },
+    "Td (Median Toxic Dose)": {
+        "es": "Dt (Dosis Tóxica Media)"
+    },
+    "Titer": {
+        "es": "Título, valor"
+    },
+    "T-Lymphocytes (T-Cells)": {
+        "es": "Linfocitos T (Células T)"
+    },
+    "White Blood Cells": {
+        "es": "Glóbulos blancos, leucocitos"
+    },
+    "Transfusion": {
+        "es": "Transfusión"
+    },
+    "Viral Load": {
+        "es": "Carga viral"
+    },
+    "Bone Marrow Transplant": {
+        "es": "Transplante de Medula Ósea"
+    },
+    "Bone Scan": {
+        "es": "Tomografía del hueso (ósea)"
+    },
+    "Bronchoscopy": {
+        "es": "Broncoscopia"
+    },
+    "Catherization": {
+        "es": "Caterización"
+    },
+    "Catherize": {
+        "es": "Caterizar"
+    },
+    "Cauterization": {
+        "es": "Cauterización"
+    },
+    "Cauterize": {
+        "es": "Cauterizar"
+    },
+    "Check-Up": {
+        "es": "Verificar, chequear"
+    },
+    "Circumcision": {
+        "es": "Circuncisión"
+    },
+    "Colposcopy": {
+        "es": "Colposcopía"
+    },
+    "Complete Physical": {
+        "es": "Examen físico completo"
+    },
+    "Computed Tomography (Ct Scan)": {
+        "es": "Tomografía Computarizada, Computada(Escáner Ct), CT, Tac"
+    },
+    "Curettage": {
+        "es": "Raspado, curetaje"
+    },
+    "Conization": {
+        "es": "Conización"
+    },
+    "Cytology": {
+        "es": "Citología"
+    },
+    "Cytoscopy": {
+        "es": "Cistoscopia"
+    },
+    "Diagnose": {
+        "es": "Diagosticar"
+    },
+    "Diagnosis": {
+        "es": "Diagnóstico"
+    },
+    "Dilation And Curettage (D&amp;C)": {
+        "es": "Dilatación y raspado"
+    },
+    "Echocardiogram (Echo)": {
+        "es": "Ecocardiograma/ Ecocardiografía"
+    },
+    "Electrocardiogram (Ekg)": {
+        "es": "Electrocardiograma/fía (Ekg)"
+    },
+    "Electroencephalogram (Eeg)": {
+        "es": "Electroencefalograma/fía (Eeg)"
+    },
+    "Electromyogram (Emg)": {
+        "es": "Electromiograma/fía (Emg)"
+    },
+    "Elisa Test For Hiv": {
+        "es": "Elisa Examen para la detección del VIH"
+    },
+    "Endoscopy": {
+        "es": "Endoscopia"
+    },
+    "Exam": {
+        "es": "Examen, prueba, análisis"
+    },
+    "Excision": {
+        "es": "Excisión"
+    },
+    "Exercise Tolerance Test": {
+        "es": "Prueba de tolerancia física"
+    },
+    "False Negative": {
+        "es": "Falso negativo // Negativo falso"
+    },
+    "False Positive": {
+        "es": "Falso positivo // Positivo falso"
+    },
+    "Fast Plasma Glucose Test (FPG)": {
+        "es": "Prueba de glucosa en plasma en ayunas"
+    },
+    "Filling (For Tooth)": {
+        "es": "Empaste (dental)\\"
+    },
+    "Fluorescence microscopy": {
+        "es": "Microscopía fluorescente"
+    },
+    "Fluoroscopy": {
+        "es": "Fluoroscopia"
+    },
+    "Gastroscopy": {
+        "es": "Gastroscopia"
+    },
+    "Glucose Meter": {
+        "es": "Glucómetro"
+    },
+    "Gown (Clinical/Hospital)": {
+        "es": "Bata"
+    },
+    "Holter Monitor": {
+        "es": "Monitor de ritmo cardíaco"
+    },
+    "HIV (Human Immuno-Deficiency Virus) Test": {
+        "es": "Test del VIH (Virus de InmunodeficienciaHumana)"
+    },
+    "Incision": {
+        "es": "Incisión"
+    },
+    "Intravenous Pyelogram (IVP)": {
+        "es": "Pielograma Intravenoso"
+    },
+    "Laboratory Test": {
+        "es": "Examen de laboratorio"
+    },
+    "Laparoscopic Prostatectomy": {
+        "es": "Prostatectomía laparoscópica"
+    },
+    "Laser Photocoagulation": {
+        "es": "Foto-Coagulación por láser"
+    },
+    "Laser Surgery": {
+        "es": "Cirugía láser"
+    },
+    "Lithotripsy": {
+        "es": "Litrotipsia, litolapaxia"
+    },
+    "Lubricate": {
+        "es": "Lubricar"
+    },
+    "Lumbar/Cervical Roll": {
+        "es": "Almohada, almohadilla cervical, lumbar"
+    },
+    "Lumbar Puncture": {
+        "es": "Punción lumbar"
+    },
+    "Lung Function Test": {
+        "es": "Prueba de la función pulmonar"
+    },
+    "Magnetic Resonance Imaging (MRI)": {
+        "es": "Resonancia Magnética Nuclear (RMN)"
+    },
+    "Mammogram": {
+        "es": "Mamografía"
+    },
+    "Mammography": {
+        "es": "Mamografía"
+    },
+    "Nasal Irrigation": {
+        "es": "Irrigación nasal"
+    },
+    "Needle Aspiration Biopsy": {
+        "es": "Biopsia por aspiración con aguja"
+    },
+    "Nerve-Sparing Prostatectomy": {
+        "es": "Prostatectomía preservadora del nervio"
+    },
+    "Observation": {
+        "es": "Observación"
+    },
+    "Operate": {
+        "es": "Operar"
+    },
+    "Operation": {
+        "es": "Operación"
+    },
+    "Oral Glucose Tolerance Test": {
+        "es": "Prueba oral de tolerancia a la glucosa"
+    },
+    "Ova And Parasite Test": {
+        "es": "Prueba de huevos y parásitos"
+    },
+    "Pap Smear": {
+        "es": "Papanicolau; Citología (con tinción dePapanicolau)"
+    },
+    "Smear": {
+        "es": "Frotis"
+    },
+    "Pathologist": {
+        "es": "Patólogo"
+    },
+    "Positron Emission Tomography (PET)": {
+        "es": "Tomografía por emisión de positrones"
+    },
+    "Ppd (Purified Protein Derivative)": {
+        "es": "Proteína derivada purificada"
+    },
+    "Prescribe": {
+        "es": "Recetar, prescribir"
+    },
+    "Prostate-Specific Antigen Blood Test (PSA)": {
+        "es": "Prueba de sangre del antígeno prostáticoespecífico"
+    },
+    "Pulmonary Function Test": {
+        "es": "Evaluación de la función pulmonar"
+    },
+    "Question": {
+        "es": "Pregunta, cuestión"
+    },
+    "Radical Prostatectomy": {
+        "es": "Prostatectomía radical"
+    },
+    "Rapid Plasma Reagin (RPR)": {
+        "es": "Test reagínico plasmático rápido"
+    },
+    "Rectal Exam": {
+        "es": "Examen del recto"
+    },
+    "Digital Rectal Exam": {
+        "es": "Examen rectal digital"
+    },
+    "Release": {
+        "es": "Dar de alta"
+    },
+    "Renal Dialysis": {
+        "es": "Diálisis renal"
+    },
+    "Resection": {
+        "es": "Resección"
+    },
+    "Root Canal": {
+        "es": "Endodoncia, tratamiento de conductos"
+    },
+    "Run a Test": {
+        "es": "Hacer un examen, llevar a cabo un examen"
+    },
+    "Screening Tests": {
+        "es": "Exámenes de detección"
+    },
+    "Screening (Screening the Population)": {
+        "es": "Reconocimiento"
+    },
+    "Semen Analysis": {
+        "es": "Análisis Seminal"
+    },
+    "Serological Test": {
+        "es": "Prueba serológica"
+    },
+    "Skin Allergy Testing": {
+        "es": "Pruebas de alergias de la piel"
+    },
+    "Sonogram": {
+        "es": "Sonograma / ecografia"
+    },
+    "Specimen": {
+        "es": "Espécimen, muestra, modelo"
+    },
+    "Sphygmomanometer": {
+        "es": "Esfigmomanómetro"
+    },
+    "Spirometry": {
+        "es": "Espirometría"
+    },
+    "Sterilization": {
+        "es": "Esterilización"
+    },
+    "Sterilize": {
+        "es": "Esterilizar"
+    },
+    "Stick Out The Tongue": {
+        "es": "Sacar la lengua"
+    },
+    "Stool Sample/Specimen": {
+        "es": "Muestra de la materia fecal, del excremento"
+    },
+    "Stomach Pump": {
+        "es": "Bomba estomacal, lavativa"
+    },
+    "Survey": {
+        "es": "Estudio, examen, reconocimiento, encuesta"
+    },
+    "Test": {
+        "es": "Examen"
+    },
+    "Test Strip": {
+        "es": "Tira de detección, tirilla"
+    },
+    "Temperature Reading": {
+        "es": "Medición de la temperatura"
+    },
+    "Oral": {
+        "es": "Oral"
+    },
+    "Anal": {
+        "es": "Anal"
+    },
+    "Throat/Wound Culture": {
+        "es": "Cultivo de la garganta, de una herida"
+    },
+    "Thyroid Image": {
+        "es": "Imágen tiroidea"
+    },
+    "Tonometry": {
+        "es": "Tonometría"
+    },
+    "Tourniquet": {
+        "es": "Torniquete"
+    },
+    "TSH (Thyroid Stimulating Hormone) Assay": {
+        "es": "Estudio de la hormona estimuladora de latiroides"
+    },
+    "Tuberculin Test": {
+        "es": "Test de la tuberculina"
+    },
+    "Turn Over": {
+        "es": "Volcar, voltearse, darse la vuelta"
+    },
+    "Ultrasound": {
+        "es": "Ecocardiografía, ecografía, ultrasonido"
+    },
+    "Focused Unltrasound Surgery (FUS)": {
+        "es": "Cirugía de ultrasonido enfocado"
+    },
+    "High Intensity Focused Ultrasound (HIFU)": {
+        "es": "Ultrasonido enfocado de alta intensidad"
+    },
+    "Therapeutic Ultrasound": {
+        "es": "Ultrasonido terapéutico"
+    },
+    "Undress": {
+        "es": "Desvestirse, desnudarse"
+    },
+    "Upper Gi Series": {
+        "es": "Seriada gastrointestinal"
+    },
+    "Urinalysis": {
+        "es": "Urinálisis, análisis de la orina"
+    },
+    "Urine Test": {
+        "es": "Examen de la orina"
+    },
+    "Visual Fields Examination": {
+        "es": "Examen del campo visual"
+    },
+    "X-Ray": {
+        "es": "Radiografía/ Rayos X"
+    },
+    "Chest X-Ray": {
+        "es": "Radiografía del pecho"
+    },
+    "Bedpan": {
+        "es": "Orinal, cuña, silleta"
+    },
+    "Brace": {
+        "es": "Grapa, tirante, tensor, abrazadera"
+    },
+    "Cane": {
+        "es": "Bastón, caña"
+    },
+    "Catheter": {
+        "es": "Catéter"
+    },
+    "Crutches": {
+        "es": "Muletas"
+    },
+    "Curette": {
+        "es": "Cureta, raspador"
+    },
+    "Cystoscope": {
+        "es": "Cistoscopio"
+    },
+    "Endoscope": {
+        "es": "Endoscopio"
+    },
+    "Flow Meter": {
+        "es": "Metro para medir el flujo, el fluído"
+    },
+    "Fluoroscope": {
+        "es": "Fluoroscopio"
+    },
+    "Heating Pad": {
+        "es": "Almohadilla de calor, almohada eléctrica"
+    },
+    "Hypodermic Needle": {
+        "es": "Aguja hipodérmica"
+    },
+    "Laparoscope": {
+        "es": "Laparoscopio"
+    },
+    "Loop": {
+        "es": "Lazo // Presilla, anilla, abrazadera"
+    },
+    "Mercurochrome": {
+        "es": "Mercuriocromo"
+    },
+    "Meter": {
+        "es": "Metro"
+    },
+    "Microscope": {
+        "es": "Microscopio"
+    },
+    "Needle/Syringe": {
+        "es": "Jeringuilla // Jeringa"
+    },
+    "Outlet Protector": {
+        "es": "Protector de salida"
+    },
+    "Peak Flow Meter": {
+        "es": "Medidor de flujo máximo"
+    },
+    "Pumps": {
+        "es": "Escarpines, zapatillas // bombas"
+    },
+    "Stethoscope": {
+        "es": "Estetoscopio"
+    },
+    "Thermometer": {
+        "es": "Termómetro"
+    },
+    "Tuning Fork": {
+        "es": "Diapasón"
+    },
+    "Tweezers": {
+        "es": "Pinzas, tenacillas"
+    },
+    "Walker": {
+        "es": "Andador"
+    },
+    "Wheelchair": {
+        "es": "Silla de ruedas"
+    },
+    "Abnormal": {
+        "es": "Anormal"
+    },
+    "Acne": {
+        "es": "Acné"
+    },
+    "Acute Condition": {
+        "es": "Enfermedad/ Afección/ Condición  aguda/grave"
+    },
+    "Addiction": {
+        "es": "Adicción"
+    },
+    "Aids (Acquired Immuno-Deficiency Syndrome)": {
+        "es": "Sida (Síndrome de Inmunodeficiencia Adquirida)"
+    },
+    "Alcohol Abuse": {
+        "es": "Abuso de alcohol"
+    },
+    "Alcohol Withdrawal": {
+        "es": "Abstinencia del alcohol"
+    },
+    "Alcoholism": {
+        "es": "Alcoholismo"
+    },
+    "Allergy": {
+        "es": "Alergia"
+    },
+    "Allergen": {
+        "es": "Alérgeno"
+    },
+    "Anemia": {
+        "es": "Anemia"
+    },
+    "Anemic": {
+        "es": "Anémico/a"
+    },
+    "Aneurysm": {
+        "es": "Aneurisma"
+    },
+    "Arrythmia": {
+        "es": "Arritmia"
+    },
+    "Artherosclerosis": {
+        "es": "Arterioesclerosis"
+    },
+    "Arthritis": {
+        "es": "Artritis"
+    },
+    "Asthma": {
+        "es": "Asma"
+    },
+    "Mild Intermittent Asthma": {
+        "es": "Asma leve intermitente"
+    },
+    "Mild Persistent Asthma": {
+        "es": "Asma leve persistente"
+    },
+    "Moderate Persistent Asthma": {
+        "es": "Asma moderada persistente"
+    },
+    "Severe Persistent Asthma": {
+        "es": "Asma severa persistente"
+    },
+    "Asthmatic": {
+        "es": "Asmático"
+    },
+    "Asymptomatic": {
+        "es": "Asintomático"
+    },
+    "Autoimmune Disease": {
+        "es": "Enfermedad autoimmune"
+    },
+    "Bacterial Vaginosis (BV)": {
+        "es": "Vaginosis bacteriana"
+    },
+    "Benign Prostatic Hyperplasia (BPH)": {
+        "es": "Hiperplasia prostática benigna"
+    },
+    "Bowel Dysfunction": {
+        "es": "Disfunción intestinal"
+    },
+    "Break down (v)": {
+        "es": "Descomponer"
+    },
+    "Bronchitis": {
+        "es": "Bronquitis"
+    },
+    "Cancer": {
+        "es": "Cáncer"
+    },
+    "Catarrh": {
+        "es": "Catarro"
+    },
+    "Cavity (Dental)": {
+        "es": "Cavidad (dental)"
+    },
+    "Chancre": {
+        "es": "Chancro"
+    },
+    "Chronic Condition": {
+        "es": "Estado crónico"
+    },
+    "Chlamydia": {
+        "es": "Clamidia"
+    },
+    "Clogged Ateries": {
+        "es": "Arterias obstruídas"
+    },
+    "Cold (Illness)": {
+        "es": "Resfriado, catarro"
+    },
+    "Cold Sore": {
+        "es": "Herpes labial, llaga labial"
+    },
+    "Color Blindness": {
+        "es": "Daltonismo"
+    },
+    "Contagious": {
+        "es": "Contagioso/a"
+    },
+    "Infectious": {
+        "es": "Infeccioso"
+    },
+    "Crippled": {
+        "es": "Lisiado, tullido"
+    },
+    "Cyst": {
+        "es": "Quiste"
+    },
+    "Cystic Fibrosis": {
+        "es": "Fibrosis quística"
+    },
+    "Deviated Nasal Septum": {
+        "es": "Tabique (septum) nasal desviado"
+    },
+    "Diabetes": {
+        "es": "Diabetes"
+    },
+    "Adult Onset": {
+        "es": "Principio en edad adulta"
+    },
+    "Childhood": {
+        "es": "Niñez"
+    },
+    "Type 1 Diabetes": {
+        "es": "Diabetes tipo 1"
+    },
+    "Type 2 Diabetes": {
+        "es": "Diabetes tipo 2"
+    },
+    "Diabetic Nephropathy": {
+        "es": "Nefropatía diabética"
+    },
+    "Diphtheria": {
+        "es": "Difteria"
+    },
+    "Disability": {
+        "es": "Invalidez, minusvalía, discapacidad,incapacidad, inhabilidad"
+    },
+    "Ductal Carcinoma": {
+        "es": "Carcinoma ductal"
+    },
+    "Dyslexia": {
+        "es": "Dislexia"
+    },
+    "Dypsnea": {
+        "es": "Disnea"
+    },
+    "Dysentery": {
+        "es": "Disentería"
+    },
+    "Dysuria": {
+        "es": "Disuria"
+    },
+    "Edema": {
+        "es": "Edema"
+    },
+    "Embryonal Cell Carcinoma": {
+        "es": "Carcinoma celular embrional"
+    },
+    "Epilepsy": {
+        "es": "Epilepsia"
+    },
+    "Erectile Dysfunction/compliation": {
+        "es": "Disfunción, complicación eréctil"
+    },
+    "Failure (Medical Context)": {
+        "es": "fallo, insuficiencia (contexto médico)"
+    },
+    "Fever Blister": {
+        "es": "Ampolla de fiebre en los labios, herpes labial"
+    },
+    "Food Poisoning": {
+        "es": "Intoxicación"
+    },
+    "Fungus": {
+        "es": "Hongos"
+    },
+    "Fuzz": {
+        "es": "Vello, pelusa"
+    },
+    "Gallstone": {
+        "es": "Cálculo biliar"
+    },
+    "Gangrene": {
+        "es": "Gangrena"
+    },
+    "Gastroesophageal Reflux Disease (GRD)": {
+        "es": "Enfermedad de reflujo gastroesofageal"
+    },
+    "Genital Warts": {
+        "es": "Verrugas genitales"
+    },
+    "Gingivitis": {
+        "es": "Gingivitis"
+    },
+    "Glycosuria": {
+        "es": "Glicosuria"
+    },
+    "Goiter": {
+        "es": "Bocio, coto"
+    },
+    "Gonorrhea": {
+        "es": "Gonorrea"
+    },
+    "Hay Fever": {
+        "es": "Fiebre del heno"
+    },
+    "Heart Attack/Myocardial infarction": {
+        "es": "Ataque cardiaco/infarto de miocardio"
+    },
+    "Heart Disease": {
+        "es": "Enfermedad cardiaca"
+    },
+    "Congenital Heart Disease": {
+        "es": "Enfermedad congenital cardiaca"
+    },
+    "Heart Murmur": {
+        "es": "Soplo cardiaco"
+    },
+    "Heart rate": {
+        "es": "ritmo cardiaco, ritmo del corazón"
+    },
+    "Hematuria": {
+        "es": "Hematuria"
+    },
+    "Hemophillus": {
+        "es": "Hemófilo"
+    },
+    "Hemorrhoids": {
+        "es": "Hemorroides, almorranas"
+    },
+    "Hepatitis": {
+        "es": "Hepatitis"
+    },
+    "Viral Hepatitis": {
+        "es": "Hepatitis viral"
+    },
+    "Hernia": {
+        "es": "Hernia"
+    },
+    "Herpes Virus": {
+        "es": "Virus del herpes"
+    },
+    "Genital Herpes": {
+        "es": "Herpes genital"
+    },
+    "HIV (Human Immuno-Deficiency Virus)": {
+        "es": "VIH (Virus de Inmunodeficiencia Humana)"
+    },
+    "Hives": {
+        "es": "Urticaria"
+    },
+    "Human Papilloma Virus (HPV)": {
+        "es": "Virus del papiloma humano"
+    },
+    "Hyper-Cholesterolemia": {
+        "es": "Hiper-colesterolemia"
+    },
+    "Hyperemesis Gravida": {
+        "es": "Hiperemésis gravídica"
+    },
+    "Hyperglycemia": {
+        "es": "Hiperglucemia"
+    },
+    "Hypertension/High Blood Pressure": {
+        "es": "Hipertensión, alta presión arterial/ sanguínea"
+    },
+    "Silent killer": {
+        "es": "Asesino silencioso"
+    },
+    "White Coat Syndrome": {
+        "es": "Síndrome de bata blanca"
+    },
+    "Rapid onset": {
+        "es": "Aparición rápida"
+    },
+    "Systolic": {
+        "es": "Sistólico"
+    },
+    "Diastolic": {
+        "es": "Diastólico"
+    },
+    "Essential Hypertension": {
+        "es": "Hipertensión esencial"
+    },
+    "Secondary Hypertension": {
+        "es": "Hipertensión secundaria"
+    },
+    "Hypotension": {
+        "es": "Hipotensión"
+    },
+    "Hyperthyroidism (Graves Disease)": {
+        "es": "Hipertiroidismo (enfermedad de Graves)"
+    },
+    "Hypoglycemia": {
+        "es": "Hipoglucemia"
+    },
+    "Impetigo": {
+        "es": "Impétigo"
+    },
+    "Inflammation": {
+        "es": "Inflamación"
+    },
+    "Influenza": {
+        "es": "Influenza, gripe, gripa"
+    },
+    "Inguinal Syndrome": {
+        "es": "Síndrome inguinal"
+    },
+    "Intensive": {
+        "es": "Intensivo"
+    },
+    "Invasive": {
+        "es": "Invasivo, invasor"
+    },
+    "Jaundice": {
+        "es": "Ictericia"
+    },
+    "Kidney Disease": {
+        "es": "Enfermedad del riñón"
+    },
+    "Lactose Intolerance": {
+        "es": "Intolerancia a la lactosa"
+    },
+    "Leprosy (Hansen’s Disease)": {
+        "es": "Lepra (enfermedad de Hansen)"
+    },
+    "Lobular Carcinoma": {
+        "es": "Carcinoma lobular"
+    },
+    "Low Blood Pressure": {
+        "es": "Presión/tensión sanguínea baja"
+    },
+    "Lupus": {
+        "es": "Lupus"
+    },
+    "Lymphogranuloma Venerum (LGV)": {
+        "es": "Linfogranuloma venerum (venéreo)"
+    },
+    "Mastitis": {
+        "es": "Mastitis"
+    },
+    "Microorganism": {
+        "es": "Microorganismo"
+    },
+    "Obese": {
+        "es": "Obeso/a"
+    },
+    "Obesity": {
+        "es": "Obesidad"
+    },
+    "Onset": {
+        "es": "Principio, comienzo, inicio"
+    },
+    "Osteoporosis": {
+        "es": "Osteoporosis"
+    },
+    "Overactive Thyroid": {
+        "es": "Tiroides hiperactiva"
+    },
+    "Overweight": {
+        "es": "Sobrepeso"
+    },
+    "Parasite": {
+        "es": "Parásito"
+    },
+    "Parasitic Infection": {
+        "es": "Infección parasitaria"
+    },
+    "Periodontal Disease": {
+        "es": "Enfermedad periodental"
+    },
+    "Pharyngeal Syndrome": {
+        "es": "Síndrome faríngeo"
+    },
+    "Plague": {
+        "es": "Plaga / Peste Bubónica"
+    },
+    "Pneumonia": {
+        "es": "Neumonía"
+    },
+    "Pre-Diabetes": {
+        "es": "Prediabetes"
+    },
+    "Rabies": {
+        "es": "Rabia"
+    },
+    "Rectal Syndrome": {
+        "es": "Síndrome rectal"
+    },
+    "Retrovirus": {
+        "es": "Retrovirus"
+    },
+    "Rheumatic Fever": {
+        "es": "Fiebre reumática"
+    },
+    "Salmonella": {
+        "es": "Salmonela"
+    },
+    "Scarlet Fever": {
+        "es": "Fiebre Escarlata / Escarlatina"
+    },
+    "Seminal Vesicle Invasion": {
+        "es": "Invasión de la vesícula seminal"
+    },
+    "Sessile Polyp": {
+        "es": "Pólipo sésil"
+    },
+    "Sexually Transmitted Disease (STD)": {
+        "es": "Enfermedad de Transmisión Sexual (ETS)"
+    },
+    "Shingles": {
+        "es": "Herpes Zoster, culebrilla"
+    },
+    "Sinus Disease": {
+        "es": "Enfermedad de los senos"
+    },
+    "Sinusitis": {
+        "es": "Sinusitis"
+    },
+    "Sleep Apnea": {
+        "es": "Apnea del sueño"
+    },
+    "Slipped Disk": {
+        "es": "Vértebra dislocada"
+    },
+    "Sprain": {
+        "es": "Torcedura, torcer"
+    },
+    "Sprained": {
+        "es": "Torcido, luxado, dislocado"
+    },
+    "Strep Throat": {
+        "es": "Angina de la garganta; InfeccionEstreptococcica de la garganta"
+    },
+    "Stroke": {
+        "es": "Apoplejía, derrame cerebral"
+    },
+    "Sunburn": {
+        "es": "Quemadura solar"
+    },
+    "Syphilis": {
+        "es": "Sífilis"
+    },
+    "Congenital Syphilis": {
+        "es": "Sífilis congenital"
+    },
+    "Syphilis Sores": {
+        "es": "Llagas de la sífilis"
+    },
+    "Tapeworm": {
+        "es": "Solitaria, lombriz Solitaria, Tenia"
+    },
+    "Tendonitis": {
+        "es": "Tendonitis, tendinitis"
+    },
+    "Tetanus": {
+        "es": "Tétanos"
+    },
+    "Thrombosis": {
+        "es": "Trombosis"
+    },
+    "Tonsillitis": {
+        "es": "Tonsillitis, amigdalitis"
+    },
+    "Tooth Decay": {
+        "es": "Caries"
+    },
+    "Trichomonas": {
+        "es": "Tricomonas"
+    },
+    "Tuberculosis": {
+        "es": "Tuberculosis"
+    },
+    "Active Primary Tuberculosis": {
+        "es": "Tuberculosis activa primaria"
+    },
+    "Extensively Drug-Resistant Tuberculosis": {
+        "es": "Tuberculosis extensivamente resistente a ladroga"
+    },
+    "Miliary Tuberculosis": {
+        "es": "Tuberculosis miliar"
+    },
+    "Multi-Drug Resistant Tuberculosis (MDR-TB)": {
+        "es": "Tuberculosis resistente a múltiples drogas"
+    },
+    "PrimaryTuberculosis": {
+        "es": "Tuberculosis primaria"
+    },
+    "Latent (dormant) Tuberculosis": {
+        "es": "Tuberculosis latente (dormida)"
+    },
+    "Tuberculosis (Secondary)": {
+        "es": "Tuberculosis (secundaria)"
+    },
+    "Vaccine": {
+        "es": "Vacuna"
+    },
+    "BCG Vaccine": {
+        "es": "Vacuna BCG"
+    },
+    "Typhoid Fever": {
+        "es": "Fiebre Tfoidea"
+    },
+    "Uremia": {
+        "es": "Uremia"
+    },
+    "Urinary Dysfunction": {
+        "es": "Disfunción urinaria"
+    },
+    "Varicose Veins": {
+        "es": "Venas vricosas, varices"
+    },
+    "Vasospasms": {
+        "es": "Vasoespasmo"
+    },
+    "Venereal Disease": {
+        "es": "Enfermedad venérea"
+    },
+    "Virus": {
+        "es": "Virus"
+    },
+    "Viral Infection": {
+        "es": "Infección viral"
+    },
+    "Worm": {
+        "es": "Lombriz, gusano"
+    },
+    "Allergy Shots": {
+        "es": "Inyecciones contra las alergias"
+    },
+    "Amphetamines": {
+        "es": "Anfetaminas"
+    },
+    "Analgesic": {
+        "es": "Analgésico"
+    },
+    "Antiacid": {
+        "es": "Antiácido"
+    },
+    "Antibiotic": {
+        "es": "Antibiótico"
+    },
+    "Anticholinergic drugs": {
+        "es": "Drogas anticolinérgicas"
+    },
+    "Anticoagulant": {
+        "es": "Anticoagulante"
+    },
+    "Anticonvulsant": {
+        "es": "Anticonvulsivo"
+    },
+    "Antidepressant": {
+        "es": "Antidepresivo"
+    },
+    "Antidiarrheal": {
+        "es": "Antidiarréico"
+    },
+    "Antiemetic": {
+        "es": "Antiemético (antivomitivo)"
+    },
+    "Antihistamine": {
+        "es": "Antihistamínico"
+    },
+    "Histamine": {
+        "es": "Histamina"
+    },
+    "Antihypertensive": {
+        "es": "Anti-hipertensivo"
+    },
+    "Anti-Inflammatory": {
+        "es": "Anti-inflamatorio"
+    },
+    "Anti-Oncotic": {
+        "es": "Anti-oncótico"
+    },
+    "Antiseptic": {
+        "es": "Antiséptico"
+    },
+    "Antitussive": {
+        "es": "Antitusivo"
+    },
+    "Aspirin": {
+        "es": "Aspirina"
+    },
+    "Asthma Pump": {
+        "es": "Inhalador, insuflador"
+    },
+    "Azithromycin": {
+        "es": "Acitromicina"
+    },
+    "Band-Aid": {
+        "es": "Tirita, curita"
+    },
+    "Bandage": {
+        "es": "Venda, vendaje (N.); vendar (Vb.)"
+    },
+    "Bathe": {
+        "es": "Lavar, Bañar(Se)"
+    },
+    "Bend Over": {
+        "es": "Inclinarse, agacharse"
+    },
+    "Beta Agonist": {
+        "es": "Agonista beta"
+    },
+    "Birth Control Pill": {
+        "es": "Píldora anticonceptiva, de control del embarazo"
+    },
+    "Blood Thinner": {
+        "es": "Diluyente sanguíneo/ anticoagulante"
+    },
+    "Booster Shot": {
+        "es": "Revacunación, inyección de refuerzo"
+    },
+    "Bronchodilator": {
+        "es": "Broncodilatador"
+    },
+    "Calcium": {
+        "es": "Calcio"
+    },
+    "Capsule": {
+        "es": "Cápsula"
+    },
+    "Cast": {
+        "es": "Yeso, escayola"
+    },
+    "To Put on a Cast": {
+        "es": "Enyesar, Escayolar"
+    },
+    "Cathartic": {
+        "es": "Catártico"
+    },
+    "Chamomile": {
+        "es": "Camomila, manzanilla"
+    },
+    "Cod Liver Oil": {
+        "es": "Aceite de hígado de bacalao"
+    },
+    "Compress (Hot/Cold)": {
+        "es": "Compresas (frías/calientes)"
+    },
+    "Condoms": {
+        "es": "Condones, preservativos"
+    },
+    "Contraceptive": {
+        "es": "Anticonceptivo, contraceptivo"
+    },
+    "Cough Syrup": {
+        "es": "Jarabe para la Tos"
+    },
+    "Counseling": {
+        "es": "Terapia (consejería)"
+    },
+    "Cream (Medicinal)": {
+        "es": "Crema, pomada"
+    },
+    "Decongestant": {
+        "es": "Descongestivo"
+    },
+    "Dental Floss": {
+        "es": "Hilo/seda dental, seda encerada/floja dental"
+    },
+    "Dentures": {
+        "es": "Dentadura postiza; caja"
+    },
+    "Depressant": {
+        "es": "Depresivo"
+    },
+    "Depressing": {
+        "es": "Deprimente / depresivo"
+    },
+    "Detergent": {
+        "es": "Detergente"
+    },
+    "Diet": {
+        "es": "Dieta"
+    },
+    "Disinfectant": {
+        "es": "Desinfectante"
+    },
+    "Diuretic": {
+        "es": "Diurético"
+    },
+    "Dosage": {
+        "es": "Dosis, dosificación, posología"
+    },
+    "Dose": {
+        "es": "Dosis"
+    },
+    "Drops": {
+        "es": "Gotas"
+    },
+    "Dropper": {
+        "es": "Cuentagotas"
+    },
+    "Drug": {
+        "es": "Droga, medicamento"
+    },
+    "Drugstore": {
+        "es": "Farmacia, botica, droguería"
+    },
+    "Emetic": {
+        "es": "Emético"
+    },
+    "Enema": {
+        "es": "Enema"
+    },
+    "Exercise": {
+        "es": "Ejercicio"
+    },
+    "Extract (Herbal)": {
+        "es": "Extracto (herbal)"
+    },
+    "Expectorant": {
+        "es": "Expectorante"
+    },
+    "EXUBERA": {
+        "es": "Exubera"
+    },
+    "Eye Drops": {
+        "es": "Gotas para los ojos"
+    },
+    "Eyeglasses": {
+        "es": "Gafas, lentes, espejuelos"
+    },
+    "Flu Shot": {
+        "es": "Vacuna contra la gripe/a/ influenza"
+    },
+    "Fluoride": {
+        "es": "Fluoruro, flúor"
+    },
+    "Foam": {
+        "es": "Espuma"
+    },
+    "Folk Healer": {
+        "es": "Sanador, curandero"
+    },
+    "Gardasil": {
+        "es": "Gardasil"
+    },
+    "Gargle": {
+        "es": "Hacer gárgaras"
+    },
+    "Gauze": {
+        "es": "Gasa"
+    },
+    "Glucose": {
+        "es": "Glucosa"
+    },
+    "Glyburide": {
+        "es": "Gliburida / hipoglucemiante oral"
+    },
+    "Glypizide (Glucatrol)": {
+        "es": "Glipicida/ hipoglucemiante oral"
+    },
+    "Heal": {
+        "es": "Curar, sanar, cicatrizar, remediar"
+    },
+    "Hearing Aid": {
+        "es": "Audifono // Sonotone"
+    },
+    "Heat": {
+        "es": "Calor, calefacción"
+    },
+    "Herb": {
+        "es": "Hierba"
+    },
+    "Herbal Treatment": {
+        "es": "Tratamiento herbal, omeopático"
+    },
+    "Hot Pack": {
+        "es": "Almohodilla de calor, almohadilla eléctrica"
+    },
+    "Hot Water Bottle": {
+        "es": "Bolsa de agua caliente"
+    },
+    "Humidifier": {
+        "es": "Humidificador"
+    },
+    "Hydration": {
+        "es": "Hidratación"
+    },
+    "Hydrogen Peroxide": {
+        "es": "Agua oxigenada, peróxido hidrogenado"
+    },
+    "Hypnotic/Soporifics": {
+        "es": "Hipnóticos, soporíferos"
+    },
+    "Immunization": {
+        "es": "Inmunización"
+    },
+    "Immuno Therapy": {
+        "es": "Inmuno-terapia"
+    },
+    "Inhaled corticosteroids": {
+        "es": "Corticoesteroides inhaladas"
+    },
+    "Inhaler": {
+        "es": "Inhalador"
+    },
+    "Injection": {
+        "es": "Inyección"
+    },
+    "Insecticide": {
+        "es": "Insecticida"
+    },
+    "Insertion": {
+        "es": "Inserción"
+    },
+    "Insulin": {
+        "es": "Insulina"
+    },
+    "Insulin Injection": {
+        "es": "Inyección de insulina"
+    },
+    "Insulin Pump": {
+        "es": "Bomba de insulina"
+    },
+    "Intravenous Drip": {
+        "es": "Goteo intravenoso"
+    },
+    "Iodine": {
+        "es": "Yodo/iodo"
+    },
+    "Jam": {
+        "es": "Aprieto, apuro // compota, conserva"
+    },
+    "Jelly": {
+        "es": "Jalea"
+    },
+    "Laxative": {
+        "es": "Laxante"
+    },
+    "Long-Term Control Medicines": {
+        "es": "Medicinas de control a largo plazo"
+    },
+    "Lose Weight": {
+        "es": "Perder peso"
+    },
+    "Lotion": {
+        "es": "Loción"
+    },
+    "Lukewarm": {
+        "es": "Tibio, templado"
+    },
+    "Make-Up": {
+        "es": "Maquillaje"
+    },
+    "Massage": {
+        "es": "Masaje"
+    },
+    "Measure": {
+        "es": "Medida"
+    },
+    "To Measure": {
+        "es": "Medir"
+    },
+    "Medication": {
+        "es": "Medicación"
+    },
+    "Medicine": {
+        "es": "Medicina"
+    },
+    "Medicine Cabinet": {
+        "es": "Gabinete médico"
+    },
+    "Merthiolate": {
+        "es": "Merthiolate (marca registrada de unmedicamento)"
+    },
+    "Nebulizer": {
+        "es": "Nebulizador"
+    },
+    "Nose Drop": {
+        "es": "Gotas nasales, para la nariz"
+    },
+    "Nourish": {
+        "es": "Nutrir"
+    },
+    "Novocaine": {
+        "es": "Novocaína"
+    },
+    "Oil": {
+        "es": "Aceite"
+    },
+    "Ointment": {
+        "es": "Ungüento, pomada"
+    },
+    "On An Empty Stomach": {
+        "es": "Con el estómago vacío"
+    },
+    "Oxygen": {
+        "es": "Oxígeno"
+    },
+    "Pacemaker": {
+        "es": "Marcapasos // nodo atrioventricular del corazón"
+    },
+    "Painkiller": {
+        "es": "Calmante"
+    },
+    "Peak": {
+        "es": "Pico"
+    },
+    "Pharmacist": {
+        "es": "Farmacéutico"
+    },
+    "Pharmacy": {
+        "es": "Farmacia"
+    },
+    "Pill": {
+        "es": "Píldora, pastilla"
+    },
+    "Half-Pill": {
+        "es": "Media pastilla"
+    },
+    "Pulverized": {
+        "es": "Pulverizada"
+    },
+    "Quarter Of a Pill": {
+        "es": "Un cuarto de pastilla"
+    },
+    "Placebo": {
+        "es": "Placebo"
+    },
+    "Plastic": {
+        "es": "Plástico"
+    },
+    "Prescription": {
+        "es": "Prescripción"
+    },
+    "Protection": {
+        "es": "Protección"
+    },
+    "Pulp": {
+        "es": "Pulpa, pulpa dentaria, pulpeja"
+    },
+    "Quick-Relief Medicines": {
+        "es": "Medicinas de alivio rápido"
+    },
+    "Reading Glasses": {
+        "es": "Gafas, lentes de lectura"
+    },
+    "Refill": {
+        "es": "Rellenar"
+    },
+    "Remedy": {
+        "es": "Remedio"
+    },
+    "Repellant": {
+        "es": "Repelente"
+    },
+    "Resistance": {
+        "es": "Resistencia"
+    },
+    "Rinse": {
+        "es": "Aclarar, enjuagar"
+    },
+    "Rub": {
+        "es": "Frotar (Vb), frotación, roce (N)"
+    },
+    "Rubdown": {
+        "es": "Masaje, fricción"
+    },
+    "Salve": {
+        "es": "Preservar, aliviar (Vb.) ungüento (N.)"
+    },
+    "Sample": {
+        "es": "Muestra, ejemplar"
+    },
+    "Second-Line Drugs (SLDs)": {
+        "es": "Drogas de segunda línea"
+    },
+    "Shaman": {
+        "es": "Chamán"
+    },
+    "Shave": {
+        "es": "Afeitar"
+    },
+    "Shots": {
+        "es": "Inyección"
+    },
+    "Skimmed Milk": {
+        "es": "Leche desnatada, descremada, sin natilla"
+    },
+    "Sitz Bath": {
+        "es": "Baño de asiento"
+    },
+    "Soak": {
+        "es": "Empapar, remojar (Vb). mojada (Adj)"
+    },
+    "Soap": {
+        "es": "Jabón"
+    },
+    "Spermicide": {
+        "es": "Espermicida"
+    },
+    "Splint": {
+        "es": "Astilla, tablilla"
+    },
+    "To Splint": {
+        "es": "Entablillar"
+    },
+    "Spoonful": {
+        "es": "Cucharada"
+    },
+    "Steroid": {
+        "es": "Esteroide"
+    },
+    "Stimulant": {
+        "es": "Estimulante"
+    },
+    "Stone": {
+        "es": "Piedra // cálculo"
+    },
+    "Suck": {
+        "es": "Chupar, mamar, aspirar"
+    },
+    "Surgery": {
+        "es": "Cirugía"
+    },
+    "Suppository": {
+        "es": "Supositorio"
+    },
+    "Tablespoon": {
+        "es": "Cuchara de sopa"
+    },
+    "Tablet": {
+        "es": "Pastilla, comprimido, tableta"
+    },
+    "TB Skin Test": {
+        "es": "Prueba cutánea (de la piel) de la tuberculina"
+    },
+    "Teaspoon": {
+        "es": "Cucharilla, cucharadita"
+    },
+    "Tetanus Shot": {
+        "es": "Inyección antitetánica, para el Tétanos"
+    },
+    "Therapy": {
+        "es": "Terapia"
+    },
+    "Toothbrush": {
+        "es": "Cepillo de dientes"
+    },
+    "Toothpaste": {
+        "es": "Pasta de dientes, dentífrico"
+    },
+    "Tranquilizer": {
+        "es": "Tranquilizador"
+    },
+    "Tylenol": {
+        "es": "Tylenol"
+    },
+    "Ultraviolet (UV) Treatment": {
+        "es": "Tratamiento ultravioleta (UV)"
+    },
+    "Vasodilator": {
+        "es": "Vasodilatador"
+    },
+    "Vinegar": {
+        "es": "Vinagre"
+    },
+    "Vitamin Supplement": {
+        "es": "Suplemento vitamínico"
+    },
+    "Walking Cane": {
+        "es": "Bastón"
+    },
+    "Yeast": {
+        "es": "Levadura // hongo"
+    },
+    "Acupuncture": {
+        "es": "Acupuntura"
+    },
+    "Herbal Medicines": {
+        "es": "Medicinas herbales"
+    },
+    "Magnet Therapy": {
+        "es": "Terapia magnética"
+    },
+    "Anesthesiologist": {
+        "es": "Anestesiólogo"
+    },
+    "Local Anesthesia": {
+        "es": "Anestesia local"
+    },
+    "Pain Management": {
+        "es": "Manejo del dolor"
+    },
+    "Spinal Anesthesia": {
+        "es": "Anestesia espinal, epidural"
+    },
+    "Angina Pectoris": {
+        "es": "Angina pectoris, angina de pecho, dolor depecho"
+    },
+    "Angiogram": {
+        "es": "Angiograma"
+    },
+    "Arrhythmia": {
+        "es": "Arritmia"
+    },
+    "Arterial aneurism": {
+        "es": "Aneurismo arterial"
+    },
+    "Atherosclerosis": {
+        "es": "Aterosclerosis"
+    },
+    "Balloon": {
+        "es": "Globo, balón"
+    },
+    "Cardiac Catherization": {
+        "es": "Caterización cardiaca"
+    },
+    "Cardiac Arrest": {
+        "es": "Paro cardiaco"
+    },
+    "Cardiac Scan": {
+        "es": "Escáner cardiaco"
+    },
+    "Cardiac Surgeon": {
+        "es": "Cirujano cardiaco"
+    },
+    "Cardiopulmonary": {
+        "es": "Cardiopulmonar"
+    },
+    "Cardiologist": {
+        "es": "Cardiólogo"
+    },
+    "Cardioscope": {
+        "es": "Cardioscopio"
+    },
+    "Cardiovascular": {
+        "es": "Cardiovascular"
+    },
+    "Circulatory System": {
+        "es": "Sistema circulatorio"
+    },
+    "Congestive Heart Failure": {
+        "es": "Fallo congestivo cardiaco"
+    },
+    "Coronary Angioplasty": {
+        "es": "angioplastia coronaria"
+    },
+    "Coronary Arteries": {
+        "es": "Arterias coronarias"
+    },
+    "Coronary Bypass Surgery": {
+        "es": "Cirugía para un desvío coronario, para unbypass coronario"
+    },
+    "CPR": {
+        "es": "RCP (Reanimación Cardio-Pulmonar)"
+    },
+    "Cyanosis": {
+        "es": "Cianosis (color azulado)"
+    },
+    "Echocardiogram": {
+        "es": "Ecocardiograma/fía"
+    },
+    "Electrocardiogram (EKG)": {
+        "es": "Electrocardiograma/fía (EKG)"
+    },
+    "Encephalomyocarditis": {
+        "es": "Encéfalomiocarditis"
+    },
+    "Embolism": {
+        "es": "Embolismo"
+    },
+    "Exercise Thallium Test": {
+        "es": "Examen de ejercicio del Talio, Test del Talio"
+    },
+    "Heart Beat": {
+        "es": "Latido del corazón, pulsación cardiaca"
+    },
+    "Heart Failure": {
+        "es": "Fallo cardiaco"
+    },
+    "Ischemia": {
+        "es": "Isquemia"
+    },
+    "Dl (Low Density Lipoprotein)": {
+        "es": "Lipoproteína de baja densidad"
+    },
+    "Left Ventricular Hypertrophy": {
+        "es": "Hipertrofia ventricular izquierda"
+    },
+    "Myocarditis": {
+        "es": "Miocarditis"
+    },
+    "Open-Heart Surgery": {
+        "es": "Cirugía a corazón abierto"
+    },
+    "Rheumatic Heart Disease": {
+        "es": "Enfermedad reumática del corazón"
+    },
+    "Single Ventricle": {
+        "es": "Ventrículo único"
+    },
+    "Steady Pace": {
+        "es": "Ritmo estable"
+    },
+    "Stenosis": {
+        "es": "Estenósis"
+    },
+    "Stent": {
+        "es": "Estent // varilla"
+    },
+    "Stressors": {
+        "es": "Estresantes"
+    },
+    "Stress/Exercise Test": {
+        "es": "Examen para medir el ritmo cardiaco"
+    },
+    "The Heart Beats": {
+        "es": "Los latidos del corazón"
+    },
+    "Ventricular Septal Defect": {
+        "es": "Defecto de tabique ventricular"
+    },
+    "Arch Insert": {
+        "es": "Plantilla para el zapato"
+    },
+    "Arch Support": {
+        "es": "Sostén del arco"
+    },
+    "Chiropractor": {
+        "es": "Quiropráctico"
+    },
+    "Allergist": {
+        "es": "Alergista"
+    },
+    "Biopsy (Punch/Shave)": {
+        "es": "Biopsia (por aguja, por cepillo)"
+    },
+    "Blemishes": {
+        "es": "Manchas, imperfecciones"
+    },
+    "Boil": {
+        "es": "Furúnculo"
+    },
+    "Callous": {
+        "es": "Calloso"
+    },
+    "Carbuncle": {
+        "es": "Canbunclo, Ántrax"
+    },
+    "Corn": {
+        "es": "Callo"
+    },
+    "Culture a Wound": {
+        "es": "Cultivo de una herida"
+    },
+    "Cysts": {
+        "es": "Quistes"
+    },
+    "Dandruff": {
+        "es": "Caspa"
+    },
+    "Dermatitis": {
+        "es": "Dermatitis"
+    },
+    "Dermatologist": {
+        "es": "Dermatólogo"
+    },
+    "Dermatology": {
+        "es": "Dermatología"
+    },
+    "Draining a Cyst": {
+        "es": "Drenar un quiste"
+    },
+    "Dry Skin": {
+        "es": "Piel seca"
+    },
+    "Dust Mite": {
+        "es": "Ácaros del polvo"
+    },
+    "Eczema": {
+        "es": "Eccema"
+    },
+    "Fungal Scraping": {
+        "es": "Examen fungal por raspado"
+    },
+    "Fungus Of Nails": {
+        "es": "Hongos de las uñas"
+    },
+    "Hypoallergenic": {
+        "es": "Hipoalergénico"
+    },
+    "Lice": {
+        "es": "Piojos"
+    },
+    "Moisten": {
+        "es": "Humedecer, humedecerse"
+    },
+    "Moisturizing": {
+        "es": "Humidificante, hidratante"
+    },
+    "Mole": {
+        "es": "Lunar"
+    },
+    "Non-Comedogenic": {
+        "es": "No-comedogénico"
+    },
+    "Peeling": {
+        "es": "Pelándose"
+    },
+    "Pimples": {
+        "es": "Granos, barros"
+    },
+    "Psoriasis": {
+        "es": "Psoriasis"
+    },
+    "Rash; Eruption": {
+        "es": "Salpullido, sarpullido, erupción"
+    },
+    "Scabies": {
+        "es": "Sarna"
+    },
+    "Scab": {
+        "es": "Costra"
+    },
+    "Scale": {
+        "es": "Escama"
+    },
+    "Scaling": {
+        "es": "Escamándose"
+    },
+    "Scaly": {
+        "es": "Escamoso"
+    },
+    "Skin Cancer": {
+        "es": "Cáncer de piel"
+    },
+    "Skin Complications": {
+        "es": "Complicaciones de la piel"
+    },
+    "Sunburned": {
+        "es": "Quemado por el sol"
+    },
+    "Sunscreen": {
+        "es": "Pantalla solar"
+    },
+    "Wart": {
+        "es": "Verruga"
+    },
+    "Acidosis": {
+        "es": "Acidosis"
+    },
+    "Alkalosis": {
+        "es": "Alcalosis"
+    },
+    "Anaphylactic Shock": {
+        "es": "Shock Anafiláctico (Choque, choc)"
+    },
+    "Appendicitis": {
+        "es": "Apendicitis"
+    },
+    "Appendectomy": {
+        "es": "Apendectomía"
+    },
+    "Asphyxia": {
+        "es": "Asfixia"
+    },
+    "Asphyxiation": {
+        "es": "Asfixia"
+    },
+    "Bullet": {
+        "es": "Bala"
+    },
+    "Bullet Wound": {
+        "es": "Herida de bala"
+    },
+    "Cardiopulmonary Rescucitation/Rescucitator": {
+        "es": "Resucitación cardiopulmonar"
+    },
+    "Concussion": {
+        "es": "Concusión"
+    },
+    "Contusion": {
+        "es": "Contusión"
+    },
+    "Detoxification": {
+        "es": "Desintoxicación"
+    },
+    "Drown": {
+        "es": "Ahogar(se); anegar(se)"
+    },
+    "Drunken": {
+        "es": "Borracho, ebrio, embriagado, bebido, tomado"
+    },
+    "Exposure": {
+        "es": "Exposición"
+    },
+    "First/Second/Third Degree Burns": {
+        "es": "Quemaduras de primer/segundo y tercer grado"
+    },
+    "Hemorrhage": {
+        "es": "Hemorragia"
+    },
+    "I Stopped Breathing": {
+        "es": "Dejé de respirar"
+    },
+    "I Stopped To Breathe": {
+        "es": "Paré para respirar"
+    },
+    "Induce Vomiting": {
+        "es": "Vómito inducido"
+    },
+    "Insulin Reaction": {
+        "es": "Reacción a la Insulina"
+    },
+    "Insulin Shock": {
+        "es": "Shock Insulínico (Choque, choc)"
+    },
+    "Intensive Care Unit (ICU)": {
+        "es": "Unidad de Cuidados Intensivos (UCI)"
+    },
+    "Intoxicated (See Food Poisoning)": {
+        "es": "Borracho o drogado"
+    },
+    "Isolate": {
+        "es": "Aislar"
+    },
+    "Lacerate": {
+        "es": "Lacerar"
+    },
+    "Laceration": {
+        "es": "Laceración"
+    },
+    "Maceration": {
+        "es": "Maceración"
+    },
+    "Overdose": {
+        "es": "Sobredosis"
+    },
+    "Poison": {
+        "es": "Veneno"
+    },
+    "To Poison": {
+        "es": "Envenenar"
+    },
+    "Poisoning": {
+        "es": "Venenoso"
+    },
+    "Quarantine": {
+        "es": "Cuarentena"
+    },
+    "Rape": {
+        "es": "Violar"
+    },
+    "Raped": {
+        "es": "Violado/a"
+    },
+    "Sepsis": {
+        "es": "Sepsis"
+    },
+    "Spinal Tap": {
+        "es": "Drenaje espinal"
+    },
+    "Stitches": {
+        "es": "Puntadas, puntos, suturas"
+    },
+    "Tear (Muscle, Tendon, Ligament)": {
+        "es": "Desgarro (músculo, tendon, ligamento)"
+    },
+    "Toxic": {
+        "es": "Tóxico"
+    },
+    "Toxicity": {
+        "es": "Toxicidad"
+    },
+    "Toxins": {
+        "es": "Toxinas"
+    },
+    "Trauma": {
+        "es": "Trauma"
+    },
+    "Triage": {
+        "es": "Escoger priorizando a los más graves // triage"
+    },
+    "Wounds": {
+        "es": "Heridas"
+    },
+    "Endocrinologist": {
+        "es": "Endocrinólogo"
+    },
+    "Glucagon": {
+        "es": "Glucagón"
+    },
+    "Gluconeogenesis": {
+        "es": "Gluconeogénesis"
+    },
+    "Hormone": {
+        "es": "Hormona"
+    },
+    "Hormone Therapy": {
+        "es": "Terapia hormonal"
+    },
+    "Reproductive Endocrinologist/Fertility Specialist": {
+        "es": "Endocrinólogo reproductor/Especialista enfertilidad"
+    },
+    "Steroids": {
+        "es": "Esteroides"
+    },
+    "Synthetic Thyroid Hormone (Levothyroxine)": {
+        "es": "Hormona tiroidea sintética (Levotiroxina)"
+    },
+    "Testosterone": {
+        "es": "Testosterona"
+    },
+    "Loss of Testosterone": {
+        "es": "Pérdida de testosterona"
+    },
+    "Thyroid Stimulating Hormone": {
+        "es": "Hormona estimulante de la tiroides"
+    },
+    "Adenopathy": {
+        "es": "Adenopatía"
+    },
+    "Astigmatism": {
+        "es": "Astigmatismo"
+    },
+    "Audiologist": {
+        "es": "Audiologista  //  audiólogo"
+    },
+    "Balance": {
+        "es": "Balance"
+    },
+    "Barium Swallow": {
+        "es": "Dosis de bario que se traga"
+    },
+    "Dysplasia": {
+        "es": "Displasia"
+    },
+    "Hard Of Hearing": {
+        "es": "Sordo"
+    },
+    "Otalgia": {
+        "es": "Otalgia"
+    },
+    "Otolaryngologist": {
+        "es": "Otorrinolaringólogo"
+    },
+    "Otolaryngology": {
+        "es": "Otorrinolaringología"
+    },
+    "Postnasal Drip": {
+        "es": "Goteo post-nasal"
+    },
+    "Ringing In The Ear": {
+        "es": "Zumbido en los oídos"
+    },
+    "Sense Of Hearing": {
+        "es": "Sentido del oído"
+    },
+    "Sense Of Smell": {
+        "es": "Sentido del olfato"
+    },
+    "Sleep Study": {
+        "es": "Estudio del sueño"
+    },
+    "Throat Clearing": {
+        "es": "Aclararse la garganta"
+    },
+    "Tinnitus": {
+        "es": "Tinitus"
+    },
+    "Vertigo": {
+        "es": "Vértigo"
+    },
+    "Voice Evaluation": {
+        "es": "Evaluación de la voz"
+    },
+    "Aids (Acquired Immunodeficiency Syndrome)": {
+        "es": "Sida (Síndrome de la InmunodeficienciaAdquirida)"
+    },
+    "Alcohol Use Counseling": {
+        "es": "Asesoramiento sobre el consumo del alcohol"
+    },
+    "Blood Pressure": {
+        "es": "Presión sanguínea"
+    },
+    "Body Mass Index (BMI)": {
+        "es": "Índice de masa corporal"
+    },
+    "Cholesterol": {
+        "es": "Colesterol"
+    },
+    "Cirrhosis": {
+        "es": "Cirrosis"
+    },
+    "Domestic Abuse": {
+        "es": "Abuso doméstico"
+    },
+    "Dentist": {
+        "es": "Dentista"
+    },
+    "Family Practice Physician": {
+        "es": "Médico de práctica familiar"
+    },
+    "Family background/history": {
+        "es": "Antecedentes familiares, historia de la familia"
+    },
+    "General Practitioner": {
+        "es": "Practicante general"
+    },
+    "Glucose Levels": {
+        "es": "Niveles de glucosa"
+    },
+    "HIV (Human Immunodeficiency Virus)": {
+        "es": "VIH (Virus de Inmunodeficiencia Humana)"
+    },
+    "Immune System": {
+        "es": "Sistema inmune"
+    },
+    "Immunologist": {
+        "es": "Inmunólogo"
+    },
+    "Incubation Period": {
+        "es": "Período de incubación"
+    },
+    "Infectious Disease": {
+        "es": "Enfermedad infecciosa"
+    },
+    "Infectious Disease Specialist": {
+        "es": "Especialista en enfermedades infecciosas"
+    },
+    "Internist": {
+        "es": "Internista"
+    },
+    "Medical Study": {
+        "es": "Estudio médico"
+    },
+    "Neonatologist": {
+        "es": "Neonatólogo"
+    },
+    "Nicotine": {
+        "es": "Nicotina"
+    },
+    "Opportunistic Infection": {
+        "es": "Infección oportunista"
+    },
+    "Orthodontics": {
+        "es": "Ortodoncia"
+    },
+    "Physical Exam": {
+        "es": "Examen físico"
+    },
+    "Preventive Care": {
+        "es": "Cuidados preventivos"
+    },
+    "Primary Care Provider": {
+        "es": "Profesional de la salud principal"
+    },
+    "Primary Physician": {
+        "es": "Médico principal, de cabecera"
+    },
+    "Quitting Smoking": {
+        "es": "Dejar de fumar"
+    },
+    "Risk Behavior": {
+        "es": "Conductas de riesgo"
+    },
+    "Risk Factors": {
+        "es": "Factores de riesgo"
+    },
+    "Safe Sex": {
+        "es": "Sexo seguro"
+    },
+    "Sense Of Sight": {
+        "es": "Sentido de la vista"
+    },
+    "Sense Of Taste": {
+        "es": "Sentido del gusto"
+    },
+    "Sense Of Touch": {
+        "es": "Sentido del tacto"
+    },
+    "Smoking Cessation": {
+        "es": "Dejar de fumar"
+    },
+    "Stress": {
+        "es": "Estrés"
+    },
+    "The Senses": {
+        "es": "Los sentidos"
+    },
+    "Unsafe": {
+        "es": "Inseguro, peligroso"
+    },
+    "Vaccines": {
+        "es": "Vacunas"
+    },
+    "Whiskey": {
+        "es": "Whisky"
+    },
+    "You Are At Risk For HIV": {
+        "es": "Tienes riesgo de contraer el VIH"
+    },
+    "Cholecystitis": {
+        "es": "Colecistitis"
+    },
+    "Colon Polyps": {
+        "es": "Pólipos en el colon"
+    },
+    "Colonoscopy": {
+        "es": "Colonoscopia"
+    },
+    "Colostomy": {
+        "es": "Colostomía"
+    },
+    "Digestive System": {
+        "es": "Sistema digestivo"
+    },
+    "Diverticulosis": {
+        "es": "Diverticulosis"
+    },
+    "Esophagitis": {
+        "es": "Esofagitis"
+    },
+    "Gallstones": {
+        "es": "Cálculos biliares"
+    },
+    "Gastritis": {
+        "es": "Gastritis"
+    },
+    "Gastroenterologist": {
+        "es": "Gastroenterólogo"
+    },
+    "Gastroenterology": {
+        "es": "Gastroenterología"
+    },
+    "Gastroparesis": {
+        "es": "Gastroparesis"
+    },
+    "Hardening Of The Stomach": {
+        "es": "Endurecimiento del estómago"
+    },
+    "Hiatal Hernia": {
+        "es": "Hernia de Hiato"
+    },
+    "Irritable Bowel Syndrome": {
+        "es": "Síndrome del colon irritable"
+    },
+    "Polyp": {
+        "es": "Pólipo"
+    },
+    "Reflux": {
+        "es": "Reflujo"
+    },
+    "Ringworm": {
+        "es": "Tiña"
+    },
+    "Sigmoidoscopy": {
+        "es": "Sigmoidoscopia"
+    },
+    "Stool": {
+        "es": "Materia fecal, excremento"
+    },
+    "Ulcer": {
+        "es": "Úlcera"
+    },
+    "Anesthesia": {
+        "es": "Anestesia"
+    },
+    "Bone Graft": {
+        "es": "Injerto de hueso"
+    },
+    "Cryosurgery": {
+        "es": "Criocirugía"
+    },
+    "Cryotherapy": {
+        "es": "Crioterapia"
+    },
+    "Donor": {
+        "es": "Donante"
+    },
+    "Organ Match": {
+        "es": "Órgano compatible"
+    },
+    "Organ Rejection": {
+        "es": "Rechazo de un órgano"
+    },
+    "Organ Transplant": {
+        "es": "Transplante de órgano"
+    },
+    "Post-Operative Recovery": {
+        "es": "Recuperación post-quirúrgica"
+    },
+    "Pre-Operative Assessment": {
+        "es": "Evaluación pre-quirúrgica"
+    },
+    "Pre-Operative Preparation": {
+        "es": "Preparación pre-quirúrgica"
+    },
+    "Recipient": {
+        "es": "Recipiente"
+    },
+    "Scar": {
+        "es": "Cicatriz"
+    },
+    "Scrub (Surgically)": {
+        "es": "Lavarse frotándose antes de la cirugía"
+    },
+    "Skin Graft": {
+        "es": "Injerto de piel"
+    },
+    "Surgeon": {
+        "es": "Cirujano"
+    },
+    "Transplant": {
+        "es": "Transplante"
+    },
+    "Abnormal Finding": {
+        "es": "Descubrimiento anormal"
+    },
+    "Abortion": {
+        "es": "Aborto"
+    },
+    "Adenine": {
+        "es": "Adenina"
+    },
+    "Alpha Thalassemia": {
+        "es": "Alfa Talasemia"
+    },
+    "Amino Acid": {
+        "es": "Aminoácido"
+    },
+    "Amniocentesis": {
+        "es": "Amniocentesis"
+    },
+    "Autosomal": {
+        "es": "Autosómico"
+    },
+    "Autosomal Chromosome": {
+        "es": "Cromosoma Autosómico"
+    },
+    "Baby’s Father’s Father’s Medical History": {
+        "es": "Historial médico del padre del padre del bebé"
+    },
+    "Baby’s Father’s Medical History": {
+        "es": "Historial médico del padre del bebé"
+    },
+    "Baby’s Father’s Mother’s Medical History": {
+        "es": "Historial médico de la madre del padre del bebé"
+    },
+    "Baby’s Father’s Siblings’ Children’s Medical History": {
+        "es": "Historial médico de los hijos de los hermanosdel padre del bebé"
+    },
+    "Baby’s Father’s Siblings’ Medical History": {
+        "es": "Historial médico de los hermanos del padre delbebé"
+    },
+    "Baby’s Mother’s Father’s Medical History": {
+        "es": "Historial médico del padre de la madre del bebé"
+    },
+    "Baby’s Mother’s Medical History": {
+        "es": "Historial médico de la madre del bebé"
+    },
+    "Baby’s Mother’s Mother’s Medical History": {
+        "es": "Historial médico de la madre de la madre delbebé"
+    },
+    "Baby’s Mother’s Siblings’ Children’s Medical History": {
+        "es": "Historial médico de los hijos de los hermanos dela madre del bebé"
+    },
+    "Baby’s Mother’s Siblings’ Medical History": {
+        "es": "Historial médico de los hermanos de la madredel bebé"
+    },
+    "Bacteria, microbes, germs": {
+        "es": "Bacterias; microbios; gérmenes"
+    },
+    "Barr Body": {
+        "es": "Cuerpo de Barr"
+    },
+    "Base": {
+        "es": "Base"
+    },
+    "Beta Thalassemia": {
+        "es": "Beta Talasemia Bet"
+    },
+    "Birth Defects": {
+        "es": "Defectos de nacimiento, defectos congénitos"
+    },
+    "Blood Relatives": {
+        "es": "Parientes de sangre, parientes consanguíneos"
+    },
+    "Bloom Syndrome": {
+        "es": "Síndrome de Bloom"
+    },
+    "Carrier": {
+        "es": "Portador, mensajero"
+    },
+    "Carrier Screening Status": {
+        "es": "Estado de detección del portador"
+    },
+    "Caucasian": {
+        "es": "Caucásico"
+    },
+    "Cells": {
+        "es": "Células"
+    },
+    "Chromosome Analysis": {
+        "es": "Análisis cromosómico"
+    },
+    "Chromosomes": {
+        "es": "Cromosomas"
+    },
+    "Co-Dominance": {
+        "es": "Co-Dominancia"
+    },
+    "Co-Dominant Inheritance": {
+        "es": "Herencia co-dominante"
+    },
+    "Consanguinity": {
+        "es": "Consanguineidad"
+    },
+    "Cytoplasm": {
+        "es": "Citoplasma"
+    },
+    "Cytosine": {
+        "es": "Citosina"
+    },
+    "Defects": {
+        "es": "Defectos"
+    },
+    "Deformities": {
+        "es": "Deformidades"
+    },
+    "Deoxyribonucleic Acid (DNA)": {
+        "es": "Ácido Desoxiribonucleico (ADN)"
+    },
+    "Detection": {
+        "es": "Detección"
+    },
+    "Disjunction": {
+        "es": "Disyunción"
+    },
+    "Distant Relatives": {
+        "es": "Parientes lejanos"
+    },
+    "Dominant": {
+        "es": "Dominante"
+    },
+    "Double Helix": {
+        "es": "Doble hélice"
+    },
+    "Down Syndrome": {
+        "es": "Síndrome de Down"
+    },
+    "Eletrophoresis": {
+        "es": "Electroforesis"
+    },
+    "Encoded": {
+        "es": "Codificado"
+    },
+    "Endonuclease": {
+        "es": "Endonucleasa"
+    },
+    "Enzyme": {
+        "es": "Enzima"
+    },
+    "Ethnic Background": {
+        "es": "Antecedentes étnicos, grupo étnico"
+    },
+    "Ethnicity": {
+        "es": "Etnicidad"
+    },
+    "Familial Chromosome Abnormality": {
+        "es": "Anormalidad cromosómica familiar"
+    },
+    "Fanconi’s Anemia": {
+        "es": "Anemia de Franconi"
+    },
+    "Fatty Acids": {
+        "es": "Ácidos grasos"
+    },
+    "Fertilized": {
+        "es": "Fertilizado"
+    },
+    "Filament": {
+        "es": "Filamento"
+    },
+    "Fragile X Syndrome": {
+        "es": "Síndrome del X Frágil"
+    },
+    "Fragments": {
+        "es": "Fragmentos"
+    },
+    "Fraternal Twins": {
+        "es": "Mellizos"
+    },
+    "Gaucher’s Disease": {
+        "es": "Enfermedad de Gaucher"
+    },
+    "Genes": {
+        "es": "Genes"
+    },
+    "Genetic Counselor": {
+        "es": "Consejero genético"
+    },
+    "Genetic Tendency": {
+        "es": "Tendencia genética"
+    },
+    "Genetic Testing": {
+        "es": "Examen genético, prueba genética"
+    },
+    "Geneticist": {
+        "es": "Geneticista"
+    },
+    "Genetics": {
+        "es": "Genética"
+    },
+    "Genetics Counseling": {
+        "es": "Consejo genético"
+    },
+    "Genotype": {
+        "es": "Genotipo"
+    },
+    "Genus": {
+        "es": "Género"
+    },
+    "Gestation": {
+        "es": "Gestación"
+    },
+    "Guanine": {
+        "es": "Guanina"
+    },
+    "Helix": {
+        "es": "Hélice"
+    },
+    "Hemoglobin H Disease": {
+        "es": "Enfermedad de la Hemoglobina H"
+    },
+    "Hemoglobinopathy": {
+        "es": "Hemoglobinopatía"
+    },
+    "Hemophilia": {
+        "es": "Hemofilia"
+    },
+    "Hereditary": {
+        "es": "Hereditario"
+    },
+    "Human Genome Project": {
+        "es": "Proyecto del genoma humano"
+    },
+    "Huntington's Syndrome": {
+        "es": "Síndrome de Huntington (Corea de Huntington)"
+    },
+    "Identical Twins": {
+        "es": "Gemelos idénticos, mellizos idénticos"
+    },
+    "Inheritance": {
+        "es": "Herencia"
+    },
+    "Inherited Disorder": {
+        "es": "Trastorno heredado"
+    },
+    "Living Children": {
+        "es": "Niños vivos"
+    },
+    "Locus": {
+        "es": "Lugar, sitio"
+    },
+    "Mapping": {
+        "es": "Mapeo"
+    },
+    "Marfan's Syndrome": {
+        "es": "Síndrome de Marfan"
+    },
+    "Maternal": {
+        "es": "Materno"
+    },
+    "Meiosis": {
+        "es": "Meiosis"
+    },
+    "Mitochondria": {
+        "es": "Mitocondria"
+    },
+    "Molecule": {
+        "es": "Molécula"
+    },
+    "Mongoloid": {
+        "es": "Mongol"
+    },
+    "Multiple Gestation": {
+        "es": "Gestación múltiple"
+    },
+    "Mutation": {
+        "es": "Mutación"
+    },
+    "Negroid": {
+        "es": "Negroide"
+    },
+    "Neonatal Death": {
+        "es": "Muerte neonatal"
+    },
+    "Nephritis": {
+        "es": "Nefritis"
+    },
+    "Neural Tube Defects": {
+        "es": "Defecto del tubo neural"
+    },
+    "Non-Disjunction": {
+        "es": "No-Disyunción"
+    },
+    "Nucleus": {
+        "es": "Núcleo"
+    },
+    "Oncogene": {
+        "es": "Oncogen"
+    },
+    "Past Pregnancies": {
+        "es": "Embarazos anteriores"
+    },
+    "Paternal": {
+        "es": "Paterno"
+    },
+    "Paternity Test": {
+        "es": "Examen de paternidad"
+    },
+    "Phenotype": {
+        "es": "Fenotipo"
+    },
+    "Pigment": {
+        "es": "Pigmento"
+    },
+    "Polymerase": {
+        "es": "Polímeros"
+    },
+    "Pregnancy Outcome": {
+        "es": "Resultados del embarazo"
+    },
+    "Premature Birth": {
+        "es": "Parto prematuro"
+    },
+    "Prenatal Testing": {
+        "es": "Examen prenatal"
+    },
+    "Present Health Status": {
+        "es": "Estado de salud actual"
+    },
+    "Probe": {
+        "es": "Probeta"
+    },
+    "Radioactive Atom": {
+        "es": "Átomo radioactivo"
+    },
+    "Rare Disease": {
+        "es": "Enfermedad rara, extraña"
+    },
+    "Recessive Genes": {
+        "es": "Gen(e) recesivo"
+    },
+    "Recurrence": {
+        "es": "Recurrencia"
+    },
+    "Red-Green Color Blindness": {
+        "es": "Daltonismo Rojo-Verde"
+    },
+    "Ribonucleic Acid (RNA)": {
+        "es": "Ácido Ribonucleico (ARN)"
+    },
+    "Ribosomes": {
+        "es": "Ribosomas"
+    },
+    "Rickets": {
+        "es": "Raquitismo"
+    },
+    "Risk Of Chromosome Analysis": {
+        "es": "Riesgo por el análisis cromosómico"
+    },
+    "Risk Of Miscarriage": {
+        "es": "Riesgo de aborto involuntario"
+    },
+    "Sex Chromosomes": {
+        "es": "Cromosomas sexuales"
+    },
+    "Sickle-Cell Anemia": {
+        "es": "Anemia de glóbulos falciformes"
+    },
+    "Single Gestation": {
+        "es": "Gestación única"
+    },
+    "Southern Blot Test": {
+        "es": "Test de Southern Blot"
+    },
+    "Sweat Test": {
+        "es": "Prueba de sudor"
+    },
+    "Tay Sachs Disease": {
+        "es": "Enfermedad de Tay Sachs"
+    },
+    "Template": {
+        "es": "Molde, patrón, plantilla"
+    },
+    "Thalassemia": {
+        "es": "Talasemia"
+    },
+    "Thymine": {
+        "es": "Timina"
+    },
+    "To Clone": {
+        "es": "Clonar"
+    },
+    "To Splice": {
+        "es": "Unir, juntar"
+    },
+    "Trait": {
+        "es": "Rasgo, característica"
+    },
+    "Trisomy": {
+        "es": "Trisomía"
+    },
+    "Turner’s Syndrome": {
+        "es": "Síndrome de Turner"
+    },
+    "Uracil": {
+        "es": "Uracilo"
+    },
+    "Geriatrician": {
+        "es": "Geriatra"
+    },
+    "A Hit Of Acid": {
+        "es": "Tomarse o meterse un ácido"
+    },
+    "Abrasions": {
+        "es": "Abrasiones"
+    },
+    "Abused": {
+        "es": "Abusado/a"
+    },
+    "Abuser": {
+        "es": "Abusador"
+    },
+    "Abusing (relationship)": {
+        "es": "(Relación) abusiva"
+    },
+    "Abusive": {
+        "es": "Abusivo"
+    },
+    "Acid": {
+        "es": "Ácido"
+    },
+    "Active": {
+        "es": "Activo"
+    },
+    "Activity Level": {
+        "es": "Nivel de actividad"
+    },
+    "Acute": {
+        "es": "Agudo, grave"
+    },
+    "Aggressive": {
+        "es": "Agresivo"
+    },
+    "Aggressiveness": {
+        "es": "Agresividad"
+    },
+    "Aggressor": {
+        "es": "Agresor"
+    },
+    "Agitated": {
+        "es": "Agitado/a"
+    },
+    "Agitation": {
+        "es": "Agitación"
+    },
+    "Psychomotor Agitation": {
+        "es": "Agitación psicomotriz"
+    },
+    "Agoraphobia": {
+        "es": "Agorafobia"
+    },
+    "Alcohol": {
+        "es": "Alcohol"
+    },
+    "Anger": {
+        "es": "Rabia"
+    },
+    "Anorexia": {
+        "es": "Anorexia"
+    },
+    "Anorexia Nervosa": {
+        "es": "Anorexia nerviosa"
+    },
+    "Anorexic": {
+        "es": "Anoréxico/a"
+    },
+    "Anxiety Disorder": {
+        "es": "Trastorno de ansiedad"
+    },
+    "Anxious": {
+        "es": "Ansioso/a"
+    },
+    "Apathetic": {
+        "es": "Apático"
+    },
+    "Apathy": {
+        "es": "Apatía"
+    },
+    "Aphasia": {
+        "es": "Afasia"
+    },
+    "Aptitude": {
+        "es": "Aptitud"
+    },
+    "Attention Deficit Disorder": {
+        "es": "Trastorno de déficit de atención"
+    },
+    "Attention Deficit Hyperactivity Disorder": {
+        "es": "Trastorno de déficit de atención e hiperactividad"
+    },
+    "Attitude": {
+        "es": "Actitud"
+    },
+    "Behavior": {
+        "es": "Comportamiento"
+    },
+    "Behavioral Health": {
+        "es": "Salud comportamental"
+    },
+    "Bulimia Nervosa": {
+        "es": "Bulimia nerviosa"
+    },
+    "Biological Factors": {
+        "es": "Factores biológicos"
+    },
+    "Bipolar Disorder": {
+        "es": "Trastorno bipolar"
+    },
+    "Blackout (Drug/Alcohol Related)": {
+        "es": "Laguna mental, desmayo"
+    },
+    "Body Language": {
+        "es": "Lenguaje corporal"
+    },
+    "Borderline": {
+        "es": "Limítrofe, Incierto, en el límite, borderline"
+    },
+    "Borderline Personality Disorder": {
+        "es": "Trastorno límite de la personalidad"
+    },
+    "Brooding": {
+        "es": "Cavilación"
+    },
+    "Bulimia": {
+        "es": "Bulimia"
+    },
+    "Bulimic": {
+        "es": "Bulímico/a"
+    },
+    "Caretaker": {
+        "es": "Cuidador"
+    },
+    "Chronic": {
+        "es": "Crónico"
+    },
+    "Claustrophobia": {
+        "es": "Claustrofobia"
+    },
+    "Claustrophobic": {
+        "es": "Claustrofóbico/a"
+    },
+    "Cocaine": {
+        "es": "Cocaína"
+    },
+    "Cognition": {
+        "es": "Cognición"
+    },
+    "Cognitive Factors": {
+        "es": "Factores cognitivos"
+    },
+    "Coke": {
+        "es": "Coca, farla, farlopa, perico, fua, nieve, merca"
+    },
+    "Concentration": {
+        "es": "Concentración"
+    },
+    "Concrete": {
+        "es": "Concreto/a"
+    },
+    "Conscience": {
+        "es": "Conciencia"
+    },
+    "Conscious": {
+        "es": "Conciente"
+    },
+    "Consciousness": {
+        "es": "Conciencia"
+    },
+    "Constricted": {
+        "es": "Constricto/a"
+    },
+    "Contact Person": {
+        "es": "Persona de contacto"
+    },
+    "Cooperative": {
+        "es": "Cooperativa/o"
+    },
+    "Counselor": {
+        "es": "Consejero"
+    },
+    "Crack Cocaine": {
+        "es": "Crack, cocaína en base, basuco"
+    },
+    "Crazy": {
+        "es": "Loco"
+    },
+    "To Go Crazy": {
+        "es": "Volverse loco"
+    },
+    "Crime": {
+        "es": "Crimen"
+    },
+    "Cultural Beliefs": {
+        "es": "Creencias culturales"
+    },
+    "Cultural Shock": {
+        "es": "Choque cultural"
+    },
+    "Defensive": {
+        "es": "Defensivo/a"
+    },
+    "Delirious": {
+        "es": "Delirante"
+    },
+    "Delusions": {
+        "es": "Delirios"
+    },
+    "Delusions Of Grandeur": {
+        "es": "Delirios de grandeza"
+    },
+    "Delusions Of Persecution": {
+        "es": "Delirios de persecución"
+    },
+    "Demented": {
+        "es": "Demente"
+    },
+    "Dementia": {
+        "es": "Demencia"
+    },
+    "Depression": {
+        "es": "Depresión"
+    },
+    "Clinical Depression": {
+        "es": "Depresión clínica"
+    },
+    "Depressive": {
+        "es": "Depresivo"
+    },
+    "Developmental Factors": {
+        "es": "Factores del desarrollo"
+    },
+    "Difficulty Articulating": {
+        "es": "Dificultad articulatoria, para articular"
+    },
+    "Dignity": {
+        "es": "Dignidad"
+    },
+    "Dissociation": {
+        "es": "Disociación"
+    },
+    "Dissociative Identity Disorder": {
+        "es": "Trastorno Disociativo de la Identidad"
+    },
+    "Distracted": {
+        "es": "Distraído/a"
+    },
+    "Distractibility": {
+        "es": "Distractibilidad"
+    },
+    "Distress": {
+        "es": "Angustia, aflicción"
+    },
+    "Distressed": {
+        "es": "Ditresado, angustiado"
+    },
+    "Distressing": {
+        "es": "Distresante, angustiante"
+    },
+    "Drug Abuse": {
+        "es": "Abuso de drogas"
+    },
+    "Drug Overdose": {
+        "es": "Sobredosis por drogas"
+    },
+    "Dysthymia": {
+        "es": "Distimia"
+    },
+    "Eating Patterns": {
+        "es": "Patrones de alimentación"
+    },
+    "Educational Problems": {
+        "es": "Problemas educativos"
+    },
+    "Emotional": {
+        "es": "Emocional"
+    },
+    "Environmental Factors": {
+        "es": "Factores ambientales"
+    },
+    "Episodes": {
+        "es": "Episodios"
+    },
+    "Euphoria": {
+        "es": "Euforia"
+    },
+    "Euphoric": {
+        "es": "Eufórico"
+    },
+    "Euthymia": {
+        "es": "Eutimia"
+    },
+    "Evasive": {
+        "es": "Evasivo"
+    },
+    "Excessive Guilt": {
+        "es": "Culpa Excesiva"
+    },
+    "Feeling Of Depression": {
+        "es": "Sentimiento de depresión"
+    },
+    "Feeling Of Helplessness": {
+        "es": "Sentimiento de impotencia, de desamparo"
+    },
+    "Feeling Of Hopelessness": {
+        "es": "Sentimiento de desesperanza"
+    },
+    "Feeling Of Tiredness": {
+        "es": "Sensación de cansancio/fatiga"
+    },
+    "Feeling Worthlessness": {
+        "es": "Sentimiento de inutilidad"
+    },
+    "Feelings": {
+        "es": "Sentimientos, sensaciones"
+    },
+    "General Slowing Down": {
+        "es": "Sentimientos, sensaciones de decaimientogeneral"
+    },
+    "Genetic Inheritance": {
+        "es": "Herencia genética"
+    },
+    "Gesticulation": {
+        "es": "Gesticulación"
+    },
+    "Gestures": {
+        "es": "Gestos"
+    },
+    "Gluttonous": {
+        "es": "Glotón"
+    },
+    "Group Therapy": {
+        "es": "Terapia grupal, de grupo"
+    },
+    "Guarded": {
+        "es": "A la defensiva"
+    },
+    "Guardian": {
+        "es": "Guardián, tutor"
+    },
+    "Hallucinations": {
+        "es": "Alucinaciones"
+    },
+    "Hangover": {
+        "es": "Resaca, guayabo, cruda, ratón, borrachera"
+    },
+    "Hearing Voices": {
+        "es": "Escuchar u oir voces"
+    },
+    "Heroine": {
+        "es": "Heroína, caballo, jaco"
+    },
+    "Hobbies": {
+        "es": "Hobbies, entretenimientos, pasatiempos,aficiones"
+    },
+    "Homicidal": {
+        "es": "Homicida"
+    },
+    "Homicidal Attempt": {
+        "es": "Intento de homicidio"
+    },
+    "Homicidal Ideation": {
+        "es": "Ideación homicida"
+    },
+    "Homicidal Thoughts": {
+        "es": "Pensamientos homicidas"
+    },
+    "Homicide": {
+        "es": "Homicidio"
+    },
+    "Hostile": {
+        "es": "Hostil"
+    },
+    "Housing Problem": {
+        "es": "Problema de vivienda"
+    },
+    "Human Services Agencies": {
+        "es": "Agencies de servicios humanos"
+    },
+    "Hyperactive": {
+        "es": "Hiperactivo/a"
+    },
+    "Hyperactivity Disorder": {
+        "es": "Trastorno de hiperactividad"
+    },
+    "Hypochondria": {
+        "es": "Hipocondria"
+    },
+    "Hypochondriac": {
+        "es": "Hipocondriaco"
+    },
+    "Hypomania": {
+        "es": "Hipomania"
+    },
+    "I.V. (Intravenous) Drugs": {
+        "es": "Drogas intravenosas, por vía parenteral"
+    },
+    "Illogical": {
+        "es": "Ilógico"
+    },
+    "Illusions": {
+        "es": "Ilusiones"
+    },
+    "Immigration Issues": {
+        "es": "Asuntos de inmigración, inmigratorios"
+    },
+    "Immigration Status": {
+        "es": "Estado de Inmigración"
+    },
+    "Impulsive": {
+        "es": "Impulsivo"
+    },
+    "Inability To Concentrate": {
+        "es": "Incapacidad para concentrarse"
+    },
+    "Incident Of Abuse": {
+        "es": "Incidente de abuso"
+    },
+    "Incongruity": {
+        "es": "Incongruencia"
+    },
+    "Increased Appetite": {
+        "es": "Apetito aumentado, aumento del apetito"
+    },
+    "Increased Emotionality": {
+        "es": "Emocionalidad aumentada"
+    },
+    "Indecisiveness": {
+        "es": "Indecisión"
+    },
+    "Induces Behavior": {
+        "es": "Induce un/a comportamiento/conducta"
+    },
+    "Ingratiating": {
+        "es": "Congraciador"
+    },
+    "Insane": {
+        "es": "Loco, demente"
+    },
+    "Insanity": {
+        "es": "Locura, demencia"
+    },
+    "Irrelevant": {
+        "es": "Irrelevante"
+    },
+    "Irritability": {
+        "es": "Irritabilidad"
+    },
+    "Irritable": {
+        "es": "Irritable"
+    },
+    "Labile": {
+        "es": "Lábil"
+    },
+    "Lacerations": {
+        "es": "Laceraciones"
+    },
+    "Learned Behavior": {
+        "es": "Conducta aprendida"
+    },
+    "Leisure Time": {
+        "es": "Tiempo libre"
+    },
+    "Lethargy": {
+        "es": "Letargia"
+    },
+    "Listless": {
+        "es": "Lánguido"
+    },
+    "Loss Of Energy": {
+        "es": "Pérdida de energía"
+    },
+    "Loss Of Functioning": {
+        "es": "Pérdida de funcionalidad"
+    },
+    "Loss Of Interest": {
+        "es": "Pérdida de Interés"
+    },
+    "Lsd": {
+        "es": "LSD (Ácido Lisérgico Dietilamida)"
+    },
+    "Major Depression": {
+        "es": "Depresión mayor"
+    },
+    "Mania": {
+        "es": "Manía"
+    },
+    "Maniac": {
+        "es": "Maniático"
+    },
+    "Manic": {
+        "es": "Maniaco"
+    },
+    "Manifestations": {
+        "es": "Manifestaciones"
+    },
+    "Marihuana": {
+        "es": "Marihuana, maría, hierba"
+    },
+    "Marital Status": {
+        "es": "Estado civil, marital"
+    },
+    "Memory Loss": {
+        "es": "Pérdida de memoria"
+    },
+    "Mental Health": {
+        "es": "Salud mental"
+    },
+    "Mental Illness": {
+        "es": "Enfermedad mental"
+    },
+    "Mental Retardation": {
+        "es": "Retardo o retraso mental"
+    },
+    "Mental Suicide": {
+        "es": "Suicidio mental"
+    },
+    "Mentally Abused": {
+        "es": "Abusado // maltratado psicológicamente,mentalmente"
+    },
+    "Mentally Ill": {
+        "es": "Enfermo mental"
+    },
+    "Mentally Retarded": {
+        "es": "Retrasado mental"
+    },
+    "Mood": {
+        "es": "Humor"
+    },
+    "Multiple Personality Disorder": {
+        "es": "Trastorno de Personalidad Multiple, Trastornode Identidad Disociativo"
+    },
+    "Mushrooms": {
+        "es": "Hongos (Alucinógenos), champiñones"
+    },
+    "Mute": {
+        "es": "Mudo"
+    },
+    "Neurosis": {
+        "es": "Neurosis"
+    },
+    "Neurotic": {
+        "es": "Neurótico"
+    },
+    "Obsessive-Compulsive": {
+        "es": "Obsesivo-Compulsivo"
+    },
+    "Obsessive-Compulsive Disorder (OCD)": {
+        "es": "Trastorno Obsesivo-Compulsivo (TOC)"
+    },
+    "Occupational Problems": {
+        "es": "Problemas Ocupacionales"
+    },
+    "Oppositional Defiant Disorder": {
+        "es": "Trastorno de Desafío y Oposición"
+    },
+    "Optimism": {
+        "es": "Optimismo"
+    },
+    "Optimistic": {
+        "es": "Optimista"
+    },
+    "Panic Attack": {
+        "es": "Ataque de pánico, de angustia"
+    },
+    "Panic Disorder": {
+        "es": "Trastorno de pánico"
+    },
+    "Paranoia": {
+        "es": "Paranoia"
+    },
+    "Paranoid": {
+        "es": "Paranoico"
+    },
+    "Partner": {
+        "es": "Pareja, Compañero/a"
+    },
+    "Peace Of Mind": {
+        "es": "Paz mental"
+    },
+    "Perception": {
+        "es": "Percepción"
+    },
+    "Perpetrator Of Abuse": {
+        "es": "Perpetrador/autor de abusos/maltratos"
+    },
+    "Persecution": {
+        "es": "Persecución"
+    },
+    "Personality Disorders": {
+        "es": "Trastornos de Personalidad"
+    },
+    "Pessimism": {
+        "es": "Pesimismo"
+    },
+    "Pessimistic": {
+        "es": "Pesimista"
+    },
+    "Phobia": {
+        "es": "Fobia"
+    },
+    "Phobia To Commitment": {
+        "es": "Fobia al compromiso"
+    },
+    "Physically Abused": {
+        "es": "Abusado/maltratado físicamente"
+    },
+    "Poor Appetite": {
+        "es": "Poco apetito, apetito pobre  //  malo"
+    },
+    "Poor Self-Esteem": {
+        "es": "Baja autoestima"
+    },
+    "Post Traumatic Stress Disorder(PTSD)": {
+        "es": "Trastorno de Estrés Postraumático (TEP)"
+    },
+    "Pot": {
+        "es": "María, hierba, marihuana"
+    },
+    "Psychiatric": {
+        "es": "Psiquiátrico"
+    },
+    "Psychiatric Problem": {
+        "es": "Problema psiquiátrico"
+    },
+    "Psychiatrist": {
+        "es": "Psiquiatra"
+    },
+    "Psychoactive Drug": {
+        "es": "Droga psicoactiva"
+    },
+    "Psychological Problems": {
+        "es": "Problemas psicológicos"
+    },
+    "Psychologist": {
+        "es": "Psicólogo/a"
+    },
+    "Psychology": {
+        "es": "Psicología"
+    },
+    "Psychopathy": {
+        "es": "Psicopatía"
+    },
+    "Psychosis": {
+        "es": "Psicosis"
+    },
+    "Psychosocial Problems": {
+        "es": "Problemas psicosociales"
+    },
+    "Psychosomatic": {
+        "es": "Psicosomático"
+    },
+    "Psychotherapy": {
+        "es": "Psicoterapia"
+    },
+    "Psychotic Episode": {
+        "es": "Episodio psicótico"
+    },
+    "Reasonable": {
+        "es": "Razonable"
+    },
+    "Refugee": {
+        "es": "Refugiado/a"
+    },
+    "Relationship To Patient": {
+        "es": "Relación con el paciente"
+    },
+    "Religious Beliefs": {
+        "es": "Creencias religiosas"
+    },
+    "Restlessness": {
+        "es": "Desasosiego"
+    },
+    "Rigid": {
+        "es": "Rígido/a"
+    },
+    "Rigidity": {
+        "es": "Rigidez"
+    },
+    "Sad Mood": {
+        "es": "Estado de Humor Triste"
+    },
+    "Schizophrenia": {
+        "es": "Esquizofrenia"
+    },
+    "Schizophrenic": {
+        "es": "Esquizofrénico"
+    },
+    "Seductive": {
+        "es": "Seductor/a"
+    },
+    "Self-Reproach": {
+        "es": "Autorreproche"
+    },
+    "Self-Absorbed": {
+        "es": "Absorto/a"
+    },
+    "Self-Conscious": {
+        "es": "Cohibido, tímido"
+    },
+    "Self-Esteem": {
+        "es": "Autoestima"
+    },
+    "Sexually Abused": {
+        "es": "Abusado/a sexualmente"
+    },
+    "Sleep Patterns": {
+        "es": "Patrones del sueño"
+    },
+    "Social Factors": {
+        "es": "Factores sociales"
+    },
+    "Social Withdrawal": {
+        "es": "Retraimiento social, abandono social"
+    },
+    "Social Work": {
+        "es": "Trabajo Social"
+    },
+    "Strengths": {
+        "es": "Virtudes, fuerzas, fortalezas"
+    },
+    "Stresses": {
+        "es": "Estresa"
+    },
+    "Stressful": {
+        "es": "Estresante"
+    },
+    "Stressing": {
+        "es": "Estresante"
+    },
+    "Subconscious": {
+        "es": "Subconsciente"
+    },
+    "Substance Abuse": {
+        "es": "Abuso de sustancias"
+    },
+    "Suicidal": {
+        "es": "Suicida"
+    },
+    "Suicidal Attempt": {
+        "es": "Intento suicida"
+    },
+    "Suicidal Ideation": {
+        "es": "Ideación suicida"
+    },
+    "Suicidal Plan": {
+        "es": "Plan suicida"
+    },
+    "Suicidal Thoughts": {
+        "es": "Pensamientos suicidas"
+    },
+    "Suicide": {
+        "es": "Suicidio"
+    },
+    "Supernatural": {
+        "es": "Sobrenatural"
+    },
+    "Tearfulness": {
+        "es": "Lacrimosidad"
+    },
+    "Therapist": {
+        "es": "Terapeuta"
+    },
+    "Thought Of Harming Others": {
+        "es": "Pensar en hacer daño a otros"
+    },
+    "Thoughts Of Harming Oneself": {
+        "es": "Pensar en hacerse daño a uno mismo"
+    },
+    "To Be Alert": {
+        "es": "Estar alerta"
+    },
+    "To Be Hyperalert": {
+        "es": "Estar hiper-alerta"
+    },
+    "To Be Intoxicated": {
+        "es": "Estar embriagado // drogrado"
+    },
+    "To Be Lethargic": {
+        "es": "Estar letárgico"
+    },
+    "To Blackout": {
+        "es": "Desmayarse // enlagunarse"
+    },
+    "To Commit a Crime": {
+        "es": "Cometer un crimen"
+    },
+    "To Commit Suicide": {
+        "es": "Cometer suicidio"
+    },
+    "To Kill Oneself": {
+        "es": "Matarse, suicidarse"
+    },
+    "To Molest (Sexually)": {
+        "es": "Abusar sexualmente, tocar inapropiadamente"
+    },
+    "To Seek Counseling": {
+        "es": "Buscar ayuda, consejo, counseling,asesoramiento"
+    },
+    "Torture": {
+        "es": "Tortura"
+    },
+    "Tremors": {
+        "es": "Temblores"
+    },
+    "Trouble Sleeping": {
+        "es": "Dificultad de dormir"
+    },
+    "Twitches": {
+        "es": "Sacudida, contorsión"
+    },
+    "Unconscious": {
+        "es": "Inconsciente"
+    },
+    "Victim Of Abuse": {
+        "es": "Víctima de abuso"
+    },
+    "Weak; Languid; Run-Down": {
+        "es": "Débil, lánguido"
+    },
+    "Weaknesses": {
+        "es": "Debilidad"
+    },
+    "Weight Gain": {
+        "es": "Aumento de peso"
+    },
+    "Withdrawn": {
+        "es": "Aislado, apartado, retirado, retraído,abandonado"
+    },
+    "Creatinine Measurement": {
+        "es": "Medida de la creatina"
+    },
+    "Descended Bladder": {
+        "es": "Ptosis, caída o prolapso de la vejiga"
+    },
+    "Dialysis": {
+        "es": "Diálisis"
+    },
+    "Glomerulitis": {
+        "es": "Glomérulitis"
+    },
+    "Hematuria (Blood In Urine)": {
+        "es": "Hematuria (sangre en la orina)"
+    },
+    "Kidney Stone": {
+        "es": "Cálculo/Piedra en el riñón"
+    },
+    "Nephrologist": {
+        "es": "Nefrólogo"
+    },
+    "Renal Disease": {
+        "es": "Enfermedad renal"
+    },
+    "Blackouts": {
+        "es": "Lagunas mentales //  desmayos"
+    },
+    "Carpal Tunnel Syndrome": {
+        "es": "Síndrome del túnel carpiano"
+    },
+    "Cerebrovascular": {
+        "es": "Cerebrovascular"
+    },
+    "Craniotomy": {
+        "es": "Craneotomía"
+    },
+    "Electric Stimulation": {
+        "es": "Estimulación eléctrica"
+    },
+    "Transcutaneous Electric Nerve Stimulation": {
+        "es": "Estimulación Nerviosa Eléctrica Transcutánea"
+    },
+    "Electromyelogram (EMG)": {
+        "es": "Electromielograma (EMG)"
+    },
+    "Herniated Disk": {
+        "es": "Disco Herniado"
+    },
+    "Meningitis": {
+        "es": "Meningitis"
+    },
+    "Muscle Hypotrophy": {
+        "es": "Hipotrofia muscular"
+    },
+    "Neurologist": {
+        "es": "Neurólogo"
+    },
+    "Neurology": {
+        "es": "Neurología"
+    },
+    "Reflexes": {
+        "es": "Reflejos"
+    },
+    "Tingling Sensation": {
+        "es": "Sensación de hormigueo"
+    },
+    "What Do You Sense?": {
+        "es": "Qué percibe? ¿Qué siente?"
+    },
+    "Carbohydrates": {
+        "es": "Carbohidratos, Hidratos de Carbono"
+    },
+    "Carbon dioxide": {
+        "es": "Dióxido de Carbono"
+    },
+    "Dietetic": {
+        "es": "Dietética"
+    },
+    "Dietitian": {
+        "es": "Dietólogo, Dietista"
+    },
+    "Fats": {
+        "es": "Grasas"
+    },
+    "Nourishment": {
+        "es": "Nutrición"
+    },
+    "Nutritionist": {
+        "es": "Nutricionista, Nutrólogo"
+    },
+    "Potassium": {
+        "es": "Potasio"
+    },
+    "Sodium": {
+        "es": "Sodio"
+    },
+    "To Fast": {
+        "es": "Ayunar"
+    },
+    "To Nurture": {
+        "es": "Educar, formar, criar"
+    },
+    "Vitamins": {
+        "es": "Vitaminas"
+    },
+    "Vitamin Deficiency": {
+        "es": "Deficiencia vitamínica"
+    },
+    "Spontaneous/Accidental": {
+        "es": "Espontáneo // accidental"
+    },
+    "Induced": {
+        "es": "Inducido"
+    },
+    "Afterbirth (Plancenta)": {
+        "es": "Placenta"
+    },
+    "Amenorrhea": {
+        "es": "Amenorrea"
+    },
+    "Amniotic Fluid": {
+        "es": "Fluido amniótico"
+    },
+    "Artificial Insemination": {
+        "es": "Inseminación artificial"
+    },
+    "Baby": {
+        "es": "Bebé"
+    },
+    "Baby Bottle": {
+        "es": "Biberón"
+    },
+    "Baby Formula": {
+        "es": "Leche para bebés"
+    },
+    "Birth Control": {
+        "es": "Control de natalidad"
+    },
+    "Bottle Feed": {
+        "es": "Alimentar por biberón"
+    },
+    "Bottle Nipple": {
+        "es": "Tetilla de biberón"
+    },
+    "Breast-Feed": {
+        "es": "Amamantar"
+    },
+    "Cesarean Section": {
+        "es": "Operación cesárea"
+    },
+    "Childbirth": {
+        "es": "Nacimiento de un niño/A"
+    },
+    "Chloasma": {
+        "es": "Cloasma"
+    },
+    "Clinical Breast Exam": {
+        "es": "Examen clínico del seno"
+    },
+    "Coitus (Pre-Coitus, Post-Coitus)": {
+        "es": "Coito (Pre-Coito, Post-Coito)"
+    },
+    "Conceive": {
+        "es": "Concebir"
+    },
+    "Congenital Conditions": {
+        "es": "Enfermedades congénitas"
+    },
+    "Cleft Lip": {
+        "es": "Labio leporino"
+    },
+    "Cleft Palate": {
+        "es": "Paladar hendido"
+    },
+    "Failure To Thrive": {
+        "es": "Fallo para crecer/prosperar"
+    },
+    "Fused Spinal Column": {
+        "es": "Fusión de la columna espinal"
+    },
+    "Missing Vertebrae": {
+        "es": "Vertebra ausente"
+    },
+    "Spina Bifida": {
+        "es": "Espina bífida"
+    },
+    "Split Lip": {
+        "es": "Labio cortado, labio leporino"
+    },
+    "Contraception": {
+        "es": "Anticoncepción, contracepción"
+    },
+    "Contraction": {
+        "es": "Contracción"
+    },
+    "Crown": {
+        "es": "Corona"
+    },
+    "Diapers": {
+        "es": "Pañales"
+    },
+    "Cloth": {
+        "es": "Trapo, tela"
+    },
+    "Disposable": {
+        "es": "Descartable, desechable, de usar y Tirar"
+    },
+    "Deliver": {
+        "es": "Parir, dar a luz"
+    },
+    "Delivery": {
+        "es": "Parto"
+    },
+    "Delivery Room": {
+        "es": "Sala de partos"
+    },
+    "Douche": {
+        "es": "Lavado vaginal"
+    },
+    "Dysmenorrhea": {
+        "es": "Dismenorrea"
+    },
+    "Dyspareuria": {
+        "es": "Dispareunia"
+    },
+    "Ectopic Pregnancy": {
+        "es": "Embarazo ectópico"
+    },
+    "Embryo": {
+        "es": "Embrión"
+    },
+    "Endometriosis": {
+        "es": "Endometriosis"
+    },
+    "Episiotomy": {
+        "es": "Episiotomía"
+    },
+    "Epidural": {
+        "es": "Epidural"
+    },
+    "Estrogen": {
+        "es": "Estrógeno"
+    },
+    "Extirpation Of The Uterus": {
+        "es": "Extirpación del útero"
+    },
+    "Fallopian Tubes": {
+        "es": "Trompas de Falopio"
+    },
+    "Family Planning": {
+        "es": "Planificación familiar"
+    },
+    "Fertile": {
+        "es": "Fértil"
+    },
+    "Fertility": {
+        "es": "Fertilidad"
+    },
+    "Loss of Fertility": {
+        "es": "Pérdida de fertilidad"
+    },
+    "Fertilization": {
+        "es": "Fertilización"
+    },
+    "Fetal Heart Tone": {
+        "es": "Latido del corazón fetal"
+    },
+    "Fetal Surgery": {
+        "es": "Cirugía fetal"
+    },
+    "Fetoscopy": {
+        "es": "Fetoscopia"
+    },
+    "Fetus": {
+        "es": "Feto"
+    },
+    "Fibroid": {
+        "es": "Fibroide"
+    },
+    "Fibroid Tumor": {
+        "es": "Tumor Fibroide"
+    },
+    "Forceps": {
+        "es": "Forceps"
+    },
+    "Full Term": {
+        "es": "Término/tiempo completo"
+    },
+    "Gynecologist": {
+        "es": "Ginecólogo/a"
+    },
+    "Hot Flashes": {
+        "es": "Rubores, calores, fogaje, bochornos"
+    },
+    "Hysterectomy": {
+        "es": "Histerectomía"
+    },
+    "Implantation": {
+        "es": "Implantación"
+    },
+    "Incubator": {
+        "es": "Incubadora"
+    },
+    "Induced Labor": {
+        "es": "Parto inducido"
+    },
+    "Infant": {
+        "es": "Infante, niño/a"
+    },
+    "Infant Formula": {
+        "es": "Leche formulada para bebé"
+    },
+    "Infantile Paralysis": {
+        "es": "Parálisis infantil"
+    },
+    "Infertility": {
+        "es": "Infertilidad"
+    },
+    "Inverted Nipple": {
+        "es": "Pezón invertido"
+    },
+    "Intrauterine Device (IUD)": {
+        "es": "Dispositivo Intrauterino (DIU)"
+    },
+    "Labor": {
+        "es": "Parto"
+    },
+    "Labor Pains": {
+        "es": "Dolores de parto"
+    },
+    "Lactation": {
+        "es": "Lactancia"
+    },
+    "Laparoscopy": {
+        "es": "Laparoscopia"
+    },
+    "Leukorrhea": {
+        "es": "Leucorrea"
+    },
+    "Maternity": {
+        "es": "Maternidad"
+    },
+    "Maternity Ward": {
+        "es": "Sala de maternidad"
+    },
+    "Menarche": {
+        "es": "Menarca. menarquia"
+    },
+    "Menopause": {
+        "es": "Menopausia"
+    },
+    "Menorrhagia": {
+        "es": "Menorragia"
+    },
+    "Menses": {
+        "es": "Menstruación"
+    },
+    "Menstrual Cycle": {
+        "es": "Ciclo menstrual"
+    },
+    "Menstruation (Period)": {
+        "es": "Menstruación, regla, periodo"
+    },
+    "Miscarriage": {
+        "es": "Aborto involuntario"
+    },
+    "Multiple Pregnancy": {
+        "es": "Embarazo múltiple"
+    },
+    "Natural Family Planning (Rhythm Method)": {
+        "es": "Planificación familiar natural, método de ritmo"
+    },
+    "Natural Vaginal Birth": {
+        "es": "Parto natural (vaginal)"
+    },
+    "Navel Chord": {
+        "es": "Cordón umbilical"
+    },
+    "Neonatal": {
+        "es": "Neonatal"
+    },
+    "Newlywed": {
+        "es": "Recién casados"
+    },
+    "Normal Delivery": {
+        "es": "Parto normal, sin problemas"
+    },
+    "Nuliparous": {
+        "es": "Nulípara"
+    },
+    "Obstetrician": {
+        "es": "Obstetra"
+    },
+    "Ovarian Cyst": {
+        "es": "Quiste ovárico"
+    },
+    "Ovulation": {
+        "es": "Ovulación"
+    },
+    "Pelvic Exam": {
+        "es": "Examen pélvico"
+    },
+    "Pelvic Ultrasound": {
+        "es": "Ultrasonido pélvico"
+    },
+    "Pelvic Inflammatory Disease (Pid)": {
+        "es": "Enfermedad inflamatoria de la pelvis"
+    },
+    "Placenta": {
+        "es": "Placenta"
+    },
+    "Post Partum": {
+        "es": "Post-parto"
+    },
+    "Pre-Eclampsia": {
+        "es": "Preeclampsia"
+    },
+    "Pregnancy": {
+        "es": "Embarazo"
+    },
+    "Pregnancy Test": {
+        "es": "Test del embarazo"
+    },
+    "Pregnant": {
+        "es": "Embarazada; preñada"
+    },
+    "Prenatal": {
+        "es": "Prenatal"
+    },
+    "Prenatal Care": {
+        "es": "Cuidados prenatales"
+    },
+    "Premature": {
+        "es": "Prematuro/A"
+    },
+    "Progesterone": {
+        "es": "Progesterona"
+    },
+    "Prolapse": {
+        "es": "Prolapso"
+    },
+    "Push": {
+        "es": "Empujar, pujar"
+    },
+    "Quadruplet": {
+        "es": "Cuatrillizo"
+    },
+    "Rh Factor": {
+        "es": "Factor Rh"
+    },
+    "Sanitary Pads": {
+        "es": "Toallas/Compresas Higiénicas"
+    },
+    "Screen For Breast Cancer": {
+        "es": "Examinar en busca de cáncer del seno/ mama;Detección de cáncer de mama"
+    },
+    "Speculum": {
+        "es": "Espéculo"
+    },
+    "Still Birth": {
+        "es": "Parto de un feto muerto"
+    },
+    "Tampon": {
+        "es": "Tampón"
+    },
+    "Test Tube Baby": {
+        "es": "Bebé probeta"
+    },
+    "Tie The Tubes": {
+        "es": "Ligar las trompas (atar los tubos)"
+    },
+    "Toxic Shock Syndrome": {
+        "es": "Síndrome del shock tóxico"
+    },
+    "Triplets": {
+        "es": "Trillizos"
+    },
+    "Tubal Ligation": {
+        "es": "Ligadura de trompas"
+    },
+    "Twins": {
+        "es": "Gemelos, mellizos"
+    },
+    "Umbilical Chord": {
+        "es": "Cordón umbilical"
+    },
+    "Urinary Tract Infection (Uti)": {
+        "es": "Infección del tracto urinario"
+    },
+    "Vaginal Bleeding": {
+        "es": "Sangrado vaginal"
+    },
+    "Vaginal Discharge": {
+        "es": "Descarga vaginal / flujo"
+    },
+    "Vaginitis": {
+        "es": "Vaginitis"
+    },
+    "Wean": {
+        "es": "Destetar"
+    },
+    "Yeast Infection": {
+        "es": "Levadura / hongos"
+    },
+    "Adjuvant Therapy": {
+        "es": "Terapia adyuvante"
+    },
+    "Alternative Therapy": {
+        "es": "Terapia alternativa"
+    },
+    "Axillary Lymph Nodes": {
+        "es": "Nódulos linfáticos axilares"
+    },
+    "Benign": {
+        "es": "Benigno"
+    },
+    "BRCA1 And BRCA2 (Breast Cancer Genes)": {
+        "es": "BRCA1 y BRCA2 (Genes del cáncer de mama)"
+    },
+    "Breast Conservation Surgery (Lumpectomy)": {
+        "es": "Cirugía conservadorea del seno (lumpectomía)"
+    },
+    "Breast Mass": {
+        "es": "Masa en el seno // mamaria"
+    },
+    "Carcinoma": {
+        "es": "Carcinoma"
+    },
+    "Carcinoma In Situ": {
+        "es": "Carcinoma in situ"
+    },
+    "Chemotherapy": {
+        "es": "Quimioterapia"
+    },
+    "Fibroblastic Breast Changes": {
+        "es": "Cambios fibroblásticos del seno"
+    },
+    "Hormone (Endocrine) Therapy": {
+        "es": "Terapia hormonal (endocrinológica)"
+    },
+    "Invasive Cancer": {
+        "es": "Cáncer invasivo, invasor"
+    },
+    "Malignant": {
+        "es": "Maligno"
+    },
+    "Margins of resection": {
+        "es": "Márgenes de resección"
+    },
+    "Mastectomy": {
+        "es": "Mastectomía"
+    },
+    "Modified Radical Mastectomy": {
+        "es": "Mastectomía radical modificada"
+    },
+    "Radical Mastectomy": {
+        "es": "Mastectomía radical"
+    },
+    "Simple (Total) Mastectomy": {
+        "es": "Mastectomía simple (Total)"
+    },
+    "Metastasis": {
+        "es": "Metástasis"
+    },
+    "Bone Metastasis": {
+        "es": "Metástasis ósea, del hueso"
+    },
+    "Distant Metastasis": {
+        "es": "Metástasis distante"
+    },
+    "Local Metastasis": {
+        "es": "Metástasis local"
+    },
+    "Lymph Node Metastasis": {
+        "es": "Metástasis a los nódulos linfáticos"
+    },
+    "Metastasize": {
+        "es": "Hacer metástasis // metastatizar"
+    },
+    "Neoadjuvant Therapy": {
+        "es": "Terapia neoadyuvante"
+    },
+    "Neoplasia": {
+        "es": "Neoplasia"
+    },
+    "Oncologist": {
+        "es": "Oncólogo/a"
+    },
+    "Prosthesis": {
+        "es": "Prótesis"
+    },
+    "Radiation Therapy": {
+        "es": "Terapia por radiación"
+    },
+    "Reconstructive Surgery": {
+        "es": "Cirugía reconstructiva"
+    },
+    "Relapse": {
+        "es": "Recaída, relapso"
+    },
+    "Sarcoma": {
+        "es": "Sarcoma"
+    },
+    "Surgical Therapy": {
+        "es": "Terapia quirúrgica"
+    },
+    "Tumor": {
+        "es": "Tumor"
+    },
+    "Acuity Test": {
+        "es": "Prueba de agudeza, precisión"
+    },
+    "Cataract": {
+        "es": "Catarata"
+    },
+    "Contact Lens": {
+        "es": "Lentes de contacto"
+    },
+    "Corneal Transplant": {
+        "es": "Transplante de córnea"
+    },
+    "Cross-Eyed": {
+        "es": "Bizco"
+    },
+    "Diabetic Retinopathy/Diabetic Blindness": {
+        "es": "Retinopatía diabética/ceguera por diabetes"
+    },
+    "Electroretinography (Erg)": {
+        "es": "Electroretinografía"
+    },
+    "Eye Doctor": {
+        "es": "Oculista; médico de los ojos"
+    },
+    "Eye Exam": {
+        "es": "Examen ocular"
+    },
+    "Eyestrain": {
+        "es": "Tensión ocular"
+    },
+    "Farsighted": {
+        "es": "ve bien de lejos"
+    },
+    "Farsightedness": {
+        "es": "que ve bien de lejos"
+    },
+    "Floaters (Black Spots In Front Of Eye)": {
+        "es": "Flotadores, manchas visuales"
+    },
+    "Foggy Vision": {
+        "es": "Visión Nublada / empañada"
+    },
+    "Glaucoma": {
+        "es": "Glaucoma"
+    },
+    "Macular Degeneration": {
+        "es": "Degeneración macular"
+    },
+    "Near Sighted": {
+        "es": "Ve bien de cerca (miope)"
+    },
+    "Nearsightedness": {
+        "es": "Que ve bien de cerca (miopía)"
+    },
+    "Oculist": {
+        "es": "Oculista"
+    },
+    "Ophthalmologist": {
+        "es": "Oftalmólogo"
+    },
+    "Ophthalmoscopy": {
+        "es": "Oftalmoscopia"
+    },
+    "Optometrist": {
+        "es": "Optometrista"
+    },
+    "Presbyopia": {
+        "es": "Presbiopsia / presbicia"
+    },
+    "Retinal Detachment": {
+        "es": "Desprendimiento de la retina"
+    },
+    "Retinopathy": {
+        "es": "Retinopatía"
+    },
+    "Slit Lamp Exam": {
+        "es": "Examen con lámpara de hendidura"
+    },
+    "Tunnel Vision": {
+        "es": "Visión en túnel"
+    },
+    "Visual Acuity Test": {
+        "es": "Prueba de agudeza visual"
+    },
+    "Visual Fields": {
+        "es": "Campos visuales"
+    },
+    "Bunions": {
+        "es": "Juanetes"
+    },
+    "Bursitis": {
+        "es": "Bursitis"
+    },
+    "Range Of Motion Exercises": {
+        "es": "Rango de moción de ejercicios"
+    },
+    "Strengthening Exercises": {
+        "es": "Ejercicios para fortalecerse"
+    },
+    "Orthopedist": {
+        "es": "Ortopedista"
+    },
+    "Podiatrist": {
+        "es": "Podólogo, podiatra"
+    },
+    "Podiatry": {
+        "es": "Podología, podiatría"
+    },
+    "Prosthetics": {
+        "es": "Protésico"
+    },
+    "Side Stitch": {
+        "es": "Dolor lateral, bazo"
+    },
+    "Spurs": {
+        "es": "Espolón, espuelas"
+    },
+    "Strains": {
+        "es": "Tensiones, torceduras"
+    },
+    "To Stitch": {
+        "es": "Poner puntos, dar puntadas, coser"
+    },
+    "Chickenpox": {
+        "es": "Varicela"
+    },
+    "Colic": {
+        "es": "Cólico"
+    },
+    "Crawl": {
+        "es": "Arrastre, gateado"
+    },
+    "To Crawl": {
+        "es": "Gatear, arrastrarse"
+    },
+    "Croup": {
+        "es": "Anca, grupa"
+    },
+    "Dpt (Diphtheria and Tetanus Toxoids and Pertussis Vaccine)": {
+        "es": "Dpt Difteria- Pertussis-Tetanos (Vacuna)"
+    },
+    "Eggs Of a Louse": {
+        "es": "Liendres"
+    },
+    "Epiglottitis": {
+        "es": "Epiglotitis"
+    },
+    "German Measles": {
+        "es": "Rubeóla"
+    },
+    "Hemangioma": {
+        "es": "Hemangioma"
+    },
+    "Hyperactivity": {
+        "es": "Hiperactividad"
+    },
+    "Immunized": {
+        "es": "Inmunizado/a"
+    },
+    "Louse/Lice": {
+        "es": "Piojo/Piojos"
+    },
+    "Measles": {
+        "es": "Sarampión"
+    },
+    "Mumps": {
+        "es": "Paperas"
+    },
+    "Otitis Media": {
+        "es": "Otitis media"
+    },
+    "Pediatrician": {
+        "es": "Pediatra"
+    },
+    "Pertussis": {
+        "es": "Pertussis, tos ferina"
+    },
+    "Polio": {
+        "es": "Polio"
+    },
+    "Polio Vaccine": {
+        "es": "Vacuna contra la Polio"
+    },
+    "Rubella": {
+        "es": "Rubeóla"
+    },
+    "Smallpox": {
+        "es": "Viruela"
+    },
+    "Vaccinate": {
+        "es": "Vacunar"
+    },
+    "Vaccination": {
+        "es": "Vacunación"
+    },
+    "Wet The Bed": {
+        "es": "Mojar la cama"
+    },
+    "Whooping Cough": {
+        "es": "Tos ferina, tos convulsiva"
+    },
+    "Athlete’s Foot": {
+        "es": "Pie de atleta"
+    },
+    "Bunion": {
+        "es": "Bunio, juanete"
+    },
+    "Capsulitis": {
+        "es": "Capsulitas"
+    },
+    "Foot Complications": {
+        "es": "Complicaciones de los pies"
+    },
+    "Fungal Toe Nails": {
+        "es": "Hongos de las uñas de los pies"
+    },
+    "Hammer Toe": {
+        "es": "Dedo en martillo"
+    },
+    "Ingrown Toenail": {
+        "es": "Uña Enterrada / encarnada"
+    },
+    "Vascular Disease": {
+        "es": "Enfermedad vascular"
+    },
+    "Chronic Pulmonary Obstructive Disease": {
+        "es": "Enfermedad pulmonar obstructiva crónica"
+    },
+    "Izonizid": {
+        "es": "Izonizid"
+    },
+    "Rifampin": {
+        "es": "Rifampin"
+    },
+    "Emphysema": {
+        "es": "Enfisema"
+    },
+    "Empyema": {
+        "es": "Empiema"
+    },
+    "Pleurae": {
+        "es": "Pleuras"
+    },
+    "Pleurism": {
+        "es": "Pleurismo"
+    },
+    "Pulmonary Circulation": {
+        "es": "Circulación pulmonar"
+    },
+    "Pulmonary Pressure": {
+        "es": "Presión pulmonar"
+    },
+    "Pulmonary System": {
+        "es": "Sistema pulmonar"
+    },
+    "Pulmonary Tuberculosis": {
+        "es": "Tuberculosis pulmonar"
+    },
+    "Pulmonologist": {
+        "es": "Pulmonólogo"
+    },
+    "Respiratory System": {
+        "es": "Sistema respiratorio"
+    },
+    "Tuberculosis Pleurisy": {
+        "es": "Tuberculosis pleuritis"
+    },
+    "Upper Respiratory Infection": {
+        "es": "Infección respiratoria superior"
+    },
+    "Vital Capacity": {
+        "es": "Capacidad vital"
+    },
+    "Radioactive Iodine": {
+        "es": "Yodo radioactivo"
+    },
+    "Radioactive Tracing": {
+        "es": "Trazo radioactivo"
+    },
+    "Radiography": {
+        "es": "Radiografía"
+    },
+    "Radiologist": {
+        "es": "Radiólogo"
+    },
+    "Radiology Technician": {
+        "es": "Técnico en radiología"
+    },
+    "Occupational Rehabilitation": {
+        "es": "Rehabilitación ocupacional"
+    },
+    "Physical Therapy": {
+        "es": "Fisioterapia"
+    },
+    "Degernerative Disc Disease": {
+        "es": "Enfermedad de disco degenerativa"
+    },
+    "Degenerative Joint Desease": {
+        "es": "Enfermedad degenerativa de las articulaciones"
+    },
+    "Fibromyalgia": {
+        "es": "Fibromialgia"
+    },
+    "Gout": {
+        "es": "Gota"
+    },
+    "Joint Fluid": {
+        "es": "Líquido articular"
+    },
+    "Measurement Of Inflammation": {
+        "es": "Medida de la inflamación"
+    },
+    "Osteoarthritis": {
+        "es": "Osteoartritis"
+    },
+    "Rheumatism": {
+        "es": "Reumatismo"
+    },
+    "Rheumatoid Arthritis": {
+        "es": "Arthritis reumatoide(a)"
+    },
+    "Rheumatoid Blood Factor Test": {
+        "es": "Examen de factor reumatoide(o) en la sangre"
+    },
+    "Rheumatologist": {
+        "es": "Reumatólogo"
+    },
+    "Rheumatology": {
+        "es": "Reumatología"
+    },
+    "Child Abuse": {
+        "es": "Abuso, maltrato infantil"
+    },
+    "Domestic Violence": {
+        "es": "Violencia doméstica"
+    },
+    "Medicaid": {
+        "es": "Medicaid"
+    },
+    "Medicare": {
+        "es": "Medicare"
+    },
+    "Chronic Renal Failure": {
+        "es": "Ataque renal crónico"
+    },
+    "Ejaculate": {
+        "es": "Eyacular"
+    },
+    "Ejaculation": {
+        "es": "Eyaculación"
+    },
+    "Epididymitis": {
+        "es": "Epididimitis"
+    },
+    "Erection": {
+        "es": "Erección"
+    },
+    "Hematouria": {
+        "es": "Hematouria"
+    },
+    "Impotence": {
+        "es": "Impotencia"
+    },
+    "Incontinence": {
+        "es": "Incontinencia"
+    },
+    "Kidney Stones": {
+        "es": "Cálculos // piedras renales, en el riñón"
+    },
+    "Microalbumin": {
+        "es": "Microalbumina"
+    },
+    "Proteinuria": {
+        "es": "Proteinuria"
+    },
+    "Renal": {
+        "es": "Renal"
+    },
+    "Strong Stream Of Urine": {
+        "es": "Chorro, flujo, caudal fuerte de orina"
+    },
+    "Urinary Tract Infection": {
+        "es": "Infección del tracto urinario"
+    },
+    "Urologist": {
+        "es": "Urólogo"
+    },
+    "Urology": {
+        "es": "Urología"
+    },
+    "Vasectomy": {
+        "es": "Vasectomía"
+    }
+}

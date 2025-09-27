@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<form id="annex" action="submit-form.php" method="POST">
+    <input type="file" id="file" name="file">
+
+    <button type="submit">Submit</button>
+</form>
+<form id="form" action="submit-form.php" method="POST">
+    <label for="name">Identificador de texto</label>
+    <input type="text" id="name" name="name">
+
+    <button type="submit">Retrieve</button>
+</form>
+<form id="form" action="submit-form.php" method="POST">
+    <label for="name">Termo a procurar</label>
+    <input type="text" id="name" name="name">
+
+    <button type="submit">Retrieve</button>
+</form>
+
+
+<script>
+    const annex = document.getElementById('annex');
+    const form = document.getElementById('form');
+    const resultDiv = document.getElementById('result');
+
+    form.addEventListener('submit', async (event) => {
+        event.preventDefault();
+
+        const formData = new FormData(form);
+
+        const response = await fetch('/api/calculate', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                x: formData.get('x'),
+                y: formData.get('y')
+            })
+        });
+
+        const data = await response.json();
+
+        resultDiv.innerHTML = `Result: ${data.result}`;
+    });
+</script>
+</body>
+</html>

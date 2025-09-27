@@ -1,0 +1,37 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Designation</th>
+            <th>ENG</th>
+            <th>ES</th>
+            <th>escih</th>
+            <th>en</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for designation, description in lista %}
+        <tr>
+            <td>{{designation}}</td>
+            <td>{{description["ENG"]}}</td>
+            <td>{{description["ES"]}}</td>
+            <td>{{description["escih"]}}</td>
+            <td>{{description["en"]}}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>Designation</th>
+            <th>ENG</th>
+            <th>ES</th>
+            <th>escih</th>
+            <th>en</th>
+        </tr>
+    </tfoot>
+</table>
+
+{% endblock %}

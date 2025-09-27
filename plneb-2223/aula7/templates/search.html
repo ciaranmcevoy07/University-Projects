@@ -1,0 +1,16 @@
+{% extends 'layout.html' %}
+{% block body%}
+<form action="/terms/search" method="GET">
+    <div class="mb-3">
+      <label class="form-label">Insert Text:</label>
+      <input name="text" type="text" class="form-control" >
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+  </form>
+  
+  <ul>
+  {% for designation, description in matched %}
+  <li><b><a href="/term/{{designation}}">{{designation}}</a>:</b> {{description}} </li>
+  {% endfor %}
+</ul>
+{% endblock %}

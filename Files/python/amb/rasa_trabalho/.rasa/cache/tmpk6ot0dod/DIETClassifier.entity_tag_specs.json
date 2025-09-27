@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-shirt_size",
+      "2": "I-shirt_size",
+      "3": "L-shirt_size",
+      "4": "U-shirt_size",
+      "5": "B-training_plan",
+      "6": "I-training_plan",
+      "7": "L-training_plan",
+      "8": "U-training_plan",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-shirt_size": 1,
+      "I-shirt_size": 2,
+      "L-shirt_size": 3,
+      "U-shirt_size": 4,
+      "B-training_plan": 5,
+      "I-training_plan": 6,
+      "L-training_plan": 7,
+      "U-training_plan": 8,
+      "O": 0
+    },
+    "num_tags": 9
+  }
+]

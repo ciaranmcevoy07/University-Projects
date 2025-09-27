@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<form action="/symptoms" method="GET">
+    <div class="mb-3">
+      <label class="form-label">Insert symptoms:</label>
+      <input type="text" class="form-control" name="text">
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+  </form>
+
+  <ul>
+    {% for i in matched %}
+      <li> <b> <a href="/mdsaude/{{i}}">{{i}}</a>
+    {% endfor %}
+  
+  </ul>
+{% endblock %}

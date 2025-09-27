@@ -1,0 +1,12 @@
+{
+  "utter_procuracao/oque": [
+    {
+      "text": "Procuração é o ato pelo qual uma pessoa atribui a outra, voluntariamente o poder de agir em seu nome."
+    }
+  ],
+  "utter_procuracao/fazer": [
+    {
+      "text": "Diga-me o seu nome completo, o número do CC ou BI com data de emissão, e a sua morada atual.\n\n ATENÇÃO: Escreva uma informação por linha."
+    }
+  ]
+}

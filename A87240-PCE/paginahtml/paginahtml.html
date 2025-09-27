@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chevrolet</title>
+<style>
+body {background-color: white;}
+h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+img {
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+  height:200px;
+  background: white;
+}
+div {  
+width: auto;  
+text-align: center;  
+padding: 15px;  
+border: 3px solid white;  
+}
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+table, th, td {
+  border:1px solid black;
+}
+p {
+  text-align: center;
+}
+center {
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+  <div class="h1">
+    <img src="Chevrolet-Logo.png" alt="logo" class="center"/>
+    <h1>Chevrolet</h1>
+  </div>
+  
+   <p>Escolha um Carro:</p>
+    <div class="row">
+      <div class="column">
+        <a href="https://www.chevrolet.com/performance/camaro/build-and-price/config"><img src="2023-camaro-2ss-gcf-driver-front-3quarter-nav.png"/>
+          <p>Camaro</p>
+      </div>
+      <div class="column">
+        <a href="https://www.chevrolet.com/performance/corvette/build-and-price/config"><img src="2023-corvette-3lt-gkz-driver-front-3quarter-nav.png" />
+        <p>Corvette Stingray</p>
+      </div>
+      <div class="column">
+        <a href="https://www.chevrolet.com/performance/corvette/z06/build-and-price/config"><img src="2023-corvette-3lz-gc5-driver-front-3quarter-nav.png" />
+          <p>Corvette Z06</p>
+      </div>
+    </div>
+
+<div>
+<p>Especificacoes:</p>
+<table style="width:100%">
+  <tr>
+    <th>Carro</th>
+    <th>Preco</th>
+    <th>Potencia</th>
+  </tr>
+  <tr>
+    <td>Camaro</td>
+    <td>Starting 26,000$</td>
+    <td>275hp-455-hp</td>
+  </tr>
+  <tr>
+    <td>Corvette Stingray</td>
+    <td>Starting 64,500$</td>
+    <td>495hp</td>
+  </tr>
+  <tr>
+    <td>CorvetteZO6</td>
+    <td>Starting 105,300$</td>
+    <td>670hp</td>
+  </tr>
+</table>
+</div>
+
+</body>
+</div>
+</html> 

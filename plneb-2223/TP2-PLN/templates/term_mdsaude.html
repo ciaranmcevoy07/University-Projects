@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+<h3>
+{{designation}}
+</h3>
+{% for d, v in value.items() %}
+<h5>
+    <hr>
+    {{d}} 
+    <p></p>
+    {{v}}
+</h5>
+{% endfor %}
+
+
+<a href="/mdsaude">Back</a>
+{% endblock %}

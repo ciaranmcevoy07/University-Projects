@@ -1,0 +1,49 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+<h3>
+    {{designation}}
+</h3>
+
+<h5>
+    Description: {{value["desc"]}}
+</h5>
+
+<h5>
+    dmte_desc: {{value["dmte_desc"]}}
+</h5>
+
+<h5>
+    dtme_desc: {{value["dtme_desc"]}}
+</h5>
+
+<h5>
+    ENG: {{value["ENG"]}}
+    
+</h5>
+
+<h5>
+    ES: {{value["ES"]}}
+    
+</h5>
+
+<h5>
+    ag_desc: {{value["ag_desc"]}}
+    
+</h5>
+
+<h5>
+    escih: {{value["escih"]}}
+    
+</h5>
+
+<h5>
+    en: {{value["en"]}}
+    
+</h5>
+
+
+<hr>
+<a href="/terms">Back</a>
+{% endblock %}

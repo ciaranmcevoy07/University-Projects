@@ -1,0 +1,59 @@
+version: "3.1"
+
+rules:
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- rule: Response to ask for help
+  steps:
+  - intent: ask_for_help
+  - action: utter_ask_for_help
+
+- rule: Response to i want to run
+  steps:
+  - intent: i_want_to_run
+  - action: utter_i_want_to_run
+
+- rule: activate form
+  steps:
+  - intent: inform_racetype
+    entities:
+    - racetype: "flat"
+  - slot_was_set:
+    - racetype: "flat"
+  - action: race_info_form
+  - active_loop: race_info_form
+
+- rule: submit form
+  condition:
+  - active_loop: race_info_form
+  steps:
+  - action: race_info_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: convert_distance
+  - action: utter_goaltimefinal
+
+# - rule: Maintain goaltime_form until time is given
+#   - active_loop: goaltime_form
+#   steps:
+#   # Form is deactivated
+#   - action: goaltime_form
+#   - active_loop: null
+#   - slot_was_set:
+#     - or:
+#       - goalhours
+#       - goalminutes
+#       - goalseconds
+#   # The actions we want to run when the form is submitted.
+#   - action: utter_submit
+#   - action: utter_slots_values
